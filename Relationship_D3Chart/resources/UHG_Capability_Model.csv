@@ -1,0 +1,469 @@
+Nr.,LevelID,Name,Description,Level,Ref ID
+1,1,UnitedHealth Group Enterprise Model,,Enterprise,421-1291-0
+2,1.1,Direct and Guide the Organization - UHG,,EnterpriseDomain L0,421-6229-0
+3,1.1.1,Strategic Direction and Management - UHG,,EnterpriseCapability L1,421-6258-0
+4,1.1.2,"Investment, Innovation and Expansion - UHG",,EnterpriseCapability L1,421-6259-0
+5,1.1.3,"Mergers, Acquisitions & Migrations - UHG",,EnterpriseCapability L1,421-6260-0
+6,1.1.4,"Quality, Risk, and Performance Management - UHG",,EnterpriseCapability L1,421-6261-0
+7,1.2,Product Management - UHG,,EnterpriseDomain L0,421-6198-0
+8,1.2.1,Product Strategy - UHG,,EnterpriseCapability L1,421-6223-0
+9,1.2.2,Product Development - UHG,,EnterpriseCapability L1,421-6224-0
+10,1.2.3,Product Pricing - UHG,,EnterpriseCapability L1,421-6225-0
+11,1.2.4,Product Deployment - UHG,,EnterpriseCapability L1,421-6226-0
+12,1.2.5,Product Portfolio Management - UHG,,EnterpriseCapability L1,421-6227-0
+13,1.2.6,Product Analytics - UHG,,EnterpriseCapability L1,421-6228-0
+14,1.3,Demand Management - UHG,,EnterpriseDomain L0,421-6199-0
+15,1.3.1,Marketing - UHG,,EnterpriseCapability L1,421-6254-0
+16,1.3.2,Sales - UHG,,EnterpriseCapability L1,421-6255-0
+17,1.3.3,Underwriting - UHG,,EnterpriseCapability L1,421-6256-0
+18,1.3.4,Demand Data Analytics - UHG,,EnterpriseCapability L1,421-6257-0
+19,1.4,Customer Management - UHG,,EnterpriseDomain L0,421-6200-0
+20,1.4.1,Account Management - UHG,,EnterpriseCapability L1,421-6230-0
+21,1.4.2,Account Implementation - UHG,,EnterpriseCapability L1,421-6231-0
+22,1.4.3,Customer Billing & Accounts Receivable Management - UHG,,EnterpriseCapability L1,421-6232-0
+23,1.5,Member Management - UHG,,EnterpriseDomain L0,421-6201-0
+24,1.5.1,Enrollment - UHG,,EnterpriseCapability L1,421-6233-0
+25,1.5.2,Eligibility - UHG,,EnterpriseCapability L1,421-6234-0
+26,1.5.3,Member Analytics - UHG,,EnterpriseCapability L1,421-6235-0
+27,1.6,Claims Management - UHG,,EnterpriseDomain L0,421-6192-0
+28,1.6.1,Claims Intake - UHG,,EnterpriseCapability L1,421-6193-0
+29,1.6.2,Claims Validation - UHG,,EnterpriseCapability L1,421-6194-0
+30,1.6.3,Claims Adjudication - UHG,,EnterpriseCapability L1,421-6195-0
+31,1.6.4,Claims Post-Processing and Settlement - UHG,,EnterpriseCapability L1,421-6196-0
+32,1.6.5,Cost Management - UHG,,EnterpriseCapability L1,421-6197-0
+33,1.7,United Clinical Services - UHG,United Clinical Services part of CDM,EnterpriseDomain L0,421-5468-0
+34,1.7.1,Health Measurements & Analytics - UCS,"The goal of Manage Measurements & Analysis is to achieve the best outcome at the lowest cost. This is achieved by: 1) Identify health risk and opportunities for individuals & groups. 2) Identify financial risks within the health care system and look for ways to reduce cost and optimizing revenue. 3) Manage risk related to quality in the healthcare system. We do this by focusing on Compliance, Performance and Effectiveness.
+
+Clinical Measurement and Reporting largely consists of the categories below:
+
+Performance
+- Product performance
+- Program performance
+- Financial performance
+- Operational performance
+- Provider performance
+- HEDIS/Stars
+
+Clinical Reporting
+- Longitudinal record or period over period
+
+Effectiveness
+- Clinical effectiveness
+- Program effectiveness
+- Consumer Engagement and Program Enrollment",EnterpriseCapability L1,421-5538-0
+35,1.7.1.1,Health Assessments - UCS,"Assessment of an individual’s health profile. This results in something measurable in order to have a score that can be utilized. Evaluation may be done via surveys / interviews or in person. 
+Assessments can be:
+- Generalities around the health of member populations proactively, prior to any services rendered, physician visits or claims. 
+- Efforts to assess an individual's profile. 
+- Observational assessments.
+- Efforts to identify members at the highest risk for not receiving beneficial services.",EnterpriseCapability L2,421-5547-0
+36,1.7.1.1.1,Self Reported Assessment - UCS,"Member self-service assessments, such as Rally individual assessments.",EnterpriseCapability L3,421-5551-0
+37,1.7.1.1.2,Fluid Analysis Assessment - UCS,Lab results for test for blood and urine tests performed by clinical professional. Results would be used to make assessments of member health.,EnterpriseCapability L3,421-5552-0
+38,1.7.1.1.3,Observation Assessment - UCS,Professional Services assessment either field based or clinical telephonic supported. Looking at behavioral or Medical.,EnterpriseCapability L3,421-5553-0
+39,1.7.1.2,Health Risk Identification - UCS,"Identify health risk and opportunities for individuals & groups, create consumer health risk score, and develop strategy based on consumer health risk.
+
+The use of clinical rules to identify conditions, health risks, and opportunities for health improvement or management. These rules are applied to individuals. Stratification and Segmentation rules are used to group individuals into different categories. These groups are then used to target and engage with individuals into intervene and prevention programs.
+
+The purpose of the ID/Strat business capability is to Identify health risks and opportunities for individuals & groups, create consumer health risk scores, and develop stratifications based on consumer health risk. We then determine whether to engage with the Provider, or the Consumer directly, to address risks and opportunities.",EnterpriseCapability L2,421-5548-0
+40,1.7.1.2.1,Identify Consumer Health Risk - UCS,Identify Consumer Health Risk,EnterpriseCapability L3,421-5555-0
+41,1.7.1.2.2,Consumer Health Risk Score Creation - UCS,"Identify health risk and opportunities for individuals & groups, create consumer health risk score, and develop strategy based on consumer health risk.
+
+The use of clinical rules to identify conditions, health risks, and opportunities for health improvement or management. These rules are applied to individuals. Stratification and Segmentation rules are used to group individuals into different categories. These groups are then used to target and engage with individuals into intervene and prevention programs.
+
+The purpose of the ID/Strat business capability is to Identify health risks and opportunities for individuals & groups, create consumer health risk scores, and develop stratifications based on consumer health risk. We then determine whether to engage with the Provider, or the Consumer directly, to address risks and opportunities.",EnterpriseCapability L3,421-5556-0
+42,1.7.1.2.3,Consumer Health Risk Stratification - UCS,"Identify health risk and opportunities for individuals & groups, create consumer health risk score, and develop strategy based on consumer health risk.The use of clinical rules to identify conditions, health risks, and opportunities for health improvement or management. These rules are applied to individuals. Stratification and Segmentation rules are used to group individuals into different categories. These groups are then used to target and engage with individuals into intervene and prevention programs.The purpose of the ID/Strat business capability is to Identify health risks and opportunities for individuals & groups, create consumer health risk scores, and develop stratifications based on consumer health risk. We then determine whether to engage with the Provider, or the Consumer directly, to address risks and opportunities",EnterpriseCapability L3,421-5557-0
+43,1.7.1.3,Quality Measures - UCS,"Identify health risk and opportunities for individuals & groups, create consumer health risk score, and develop strategy based on consumer health risk.
+
+The use of clinical rules to identify conditions, health risks, and opportunities for health improvement or management. These rules are applied to individuals. Stratification and Segmentation rules are used to group individuals into different categories. These groups are then used to target and engage with individuals into intervene and prevention programs.
+
+The purpose of the ID/Strat business capability is to Identify health risks and opportunities for individuals & groups, create consumer health risk scores, and develop stratifications based on consumer health risk. We then determine whether to engage with the Provider, or the Consumer directly, to address risks and opportunities.",EnterpriseCapability L2,421-5549-0
+44,1.7.1.3.1,Gaps In Care - UCS,Gaps in care for patient based on STARS data.,EnterpriseCapability L3,421-5559-0
+45,1.7.1.3.2,Regulatory Measurements - UCS,"This includes methods for measuring the success and quality of Optum programs.
+
+Identification and Managing quality supporting Optum business (LCD, (Accreditation(of practices)), Optimize Impact to revenue/cost tied to CMS guidelines or contractual requirements .i.e. SLA's.",EnterpriseCapability L3,421-5561-0
+46,1.7.1.4,Predictive Models - UCS,The Predictive and Prospective models created that enable the business to predict future Health and Financial risks.,EnterpriseCapability L2,421-5911-0
+47,1.7.1.4.1,Predict Future Health Risk - UCS,Health avoidance based on previous utilization.,EnterpriseCapability L3,421-5913-0
+48,1.7.1.4.2,Predict Future Financial Risk - UCS,Financial avoidance based on previous utilization.,EnterpriseCapability L3,421-5914-0
+49,1.7.1.5,Clinical Studies And Publications - UCS,"Ability to submit clinical outcome studies to peer reviews and rework based on provided input. Reviewed studies are consequently published to the broader scientific community. This capability boslters Orx credibility in the market place and supports the sales of clinical programs
+
+Best Practices and knowledge sharing of providers across facility networks.",EnterpriseCapability L2,421-5912-0
+50,1.7.2,Care Delivery - UCS,"Manage the various care delivery options, medical records, physician scheduling, practice financials, health system wide integration, and decision support.",EnterpriseCapability L1,421-5539-0
+51,1.7.2.1,Patient Care - UCS,"The delivery of care to a patient/member via multiple avenues and/or practices.
+
+Ex.
+- Hospital, physician’s office
+- Urgent or emergent care setting
+- Ancillary care provider.",EnterpriseCapability L2,421-5563-0
+52,1.7.2.1.1,Urgent And Emergency Care - UCS,"""Urgent care"" - Medical care and services provided, typically in an urgent care center, to people with urgent but not serious medical problems
+
+""Emergency care"" means the performance of acts or procedures under emergency conditions in the observation, care and counsel of persons who are ill or injured or who have disabilities; in the administration of care or medications as prescribed by a licensed physician, insofar as any of these acts is based upon knowledge and application of the principles of biological, physical and social science as required by a completed course utilizing an approved curriculum in pre-hospital emergency care. However, ""emergency care"" does not include acts of medical diagnosis or prescription of therapeutic or corrective measures.",EnterpriseCapability L3,421-5608-0
+53,1.7.2.1.2,Acute Care - UCS,"Acute care is a branch of secondary health care where a patient receives active but short-term treatment for a severe injury or episode of illness, an urgent medical condition, or during recovery from surgery. In medical terms, care for acute health conditions is the opposite from chronic care, or longer term care.",EnterpriseCapability L3,421-5609-0
+54,1.7.2.1.3,Intensive Care - UCS,"Intensive Care is the continuous monitoring and treatment of seriously ill patients using special medical equipment and services.
+
+A unit in a hospital providing intensive care.",EnterpriseCapability L3,421-5610-0
+55,1.7.2.1.4,Surgical And Invasive Diagnostic Procedures - UCS,"Determination of the nature of a disease or ailment. A clinical diagnosis is based on the medical history and physical examination of the patient: it may be confirmed with X-Rays, CAT Scans (Computerized Axial Tomography), MRI (Magnetic Resonance Imaging), and other laboratory tests. Diagnosis by physical examination includes ascertaining temperature, pulse, and blood pressure and involves the use of palpation, to detect enlarged organs and other abnormalities; tapping, to delineate some of the internal organs; and listening, to interpret sounds from organs such as the heart and lungs. Instruments that facilitate physical examination include the sphygmomanometer for blood pressure; the stethoscope for listening to the heart and lungs; the ophthalmoscope to examine the inner eye; and the laryngoscope and bronchoscope
+
+to view the larynx, windpipe, and other air passages. Recent innovations in electronics have made it possible for any of these devices to be fitted with video cameras and lights, so that the interior of the body can be viewed on video monitors and recorded on videotape for future reference. In diagnostic tests, the blood, urine, tissues, and other excretions and secretions of the body are examined for evidence of chemical imbalance, cellular change, and the presence of pathogenic organisms. Exploratory surgery and the insertion of visual equipment through a small incision (e.g., laparoscopy and arthroscopy) may be used to assist in diagnosis.
+
+
+Invasive Procedures:
+These tests involve injecting radioactive substances known as radionuclides (for instance, thallium) into the patient’s bloodstream. As the radioactive substances flow through the patient’s cardiovascular system, scans and computer-generated images are taken to detect how well the heart’s chambers are working, how good blood supply to the heart is, and whether or not any heart muscle has been damaged by a heart attack.
+
+Nuclear imaging - may be combined with an exercise stress test to augment the accuracy of the results obtained. In such cases, the radioactive substances injected into the patient are mapped both at the peak of exercise and at rest so as to identify areas where the coronary arteries are narrowed, as well as the extent and severity of the patient’s blood flow abnormalities.
+
+Cardiac Catheterisation / Coronary Angiography
+Cardiac catheterisation is commonly performed before invasive procedures such as “balloon” angioplasty in order to determine the type and extent of surgery required. A catheter in the form of a thin plastic tube is inserted into an artery or vein in one of the patient’s limbs and directed into the chambers of his heart and the coronary arteries. Once the catheter is in position, the blood pressure, oxygen content of the blood, and pumping ability of the heart can be assessed.
+
+The catheter may also be used to inject a dye into the coronary arteries. As the dye flows through these arteries, X-rays are taken (coronary angiography). The dye shows up as white lines on the X-rays, with disruption or narrowing of the lines indicating areas where the coronary arteries are obstructed.
+
+Trans-Oesophageal Echocardiography
+Unlike conventional echocardiography which is non-invasive, in trans-oesophageal echocardiography, a special instrument is inserted into the patient’s throat and passed down his oesophagus (the tube connecting the mouth to the stomach). As part of the oesophagus lies close to the heart, the images captured by the instrument are able to give a very clear picture of the heart’s structure.
+
+Blood tests
+Certain substances such as creatinine kinase and troponin are released into the bloodstream when the heart is damaged during a heart attack. Their concentrations peak after a specific period of time from the initial moment of heart attack. Blood tests to detect the presence of these substances are useful in helping doctors to estimate the time of, or to confirm the occurrence of a heart attack. They also help in the detection of any injury which may have been caused to heart muscle due to a heart attack.
+
+Classification Of Heart Disease
+Based on the results of the diagnostic tests performed, doctors usually classify a patient’s heart condition based on how severe his symptoms are. The most commonly used classification system in this respect is the New York Heart Association’s Functional Classification, which places patients into one of four categories depending on the extent to which their cardiac problems limit their capacity for physical activity.",EnterpriseCapability L3,421-5915-0
+56,1.7.2.1.5,Non-Invasive Diagnostic Procedures - UCS,"Pertaining to a diagnostic or therapeutic technique that does not require the skin to be broken or a cavity or organ of the body to be entered, for obtaining a blood pressure reading by auscultation with a stethoscope and sphygmomanometer.",EnterpriseCapability L3,421-5916-0
+57,1.7.2.1.6,Telemedicine - UCS,The ability to diagnose and give necessary levels of care in one of many care delivery settings. In this case via telephonic means,EnterpriseCapability L3,421-5917-0
+58,1.7.2.1.7,Onsite Care - UCS,"Care brought to and provided in the patient's environment including employer, military and community settings.",EnterpriseCapability L3,421-5918-0
+59,1.7.2.1.8,End of Life Care - UCS,"
+In medicine, nursing and the allied health professions, end-of-life care (or EoLC) refers to health care, not only of patients in the final hours or days of their lives, but more broadly care of all those with a terminal illness or terminal disease condition that has become advanced, progressive and incurable.
+
+End-of-life care requires a range of decisions, including questions of palliative care, patients' right to self-determination (of treatment, life), medical experimentation, the ethics and efficacy of extraordinary or hazardous medical interventions, and the ethics and efficacy even of continued routine medical interventions. In addition, end-of-life often touches upon rationing and the allocation of resources in hospitals and national medical systems. Such decisions are informed both by technical, medical considerations, economic factors as well as bioethics. In addition, end-of-life treatments are subject to considerations of patient autonomy. ""Ultimately, it is still up to patients and their families to determine when to pursue aggressive treatment or withdraw life support.
+
+Examples:
+- HOSPIC Care.
+- Care provided to terminology ill patients.",EnterpriseCapability L3,421-5919-0
+60,1.7.2.1.9,Ambulatory Care - UCS,"Ambulatory care is a personal health care consultation, treatment, or intervention using advanced medical technology or procedures delivered on an outpatient basis",EnterpriseCapability L3,421-5920-0
+61,1.7.2.1.10,Practice Based Assessments - UCS,"Member assessments conducted within a Care Plan setting. Examples ( Family Practice, OB, PEDS, and internal Meds).",EnterpriseCapability L3,421-5921-0
+62,1.7.2.2,Medical Records Management - UCS,Manage patient's medical records data regardless of form or format. May be electronic or paper.,EnterpriseCapability L2,421-5564-0
+63,1.7.2.3,Manage Practice Financials - UCS,The ability to optimize the financial performance of a practice with an emphasis on being certain that all services delivered are billed accurately and completely as possible,EnterpriseCapability L2,421-5565-0
+64,1.7.2.4,Practice Model Optimization - UCS,"Practice Model Optimization - A patient care delivery model that promotes the simplified, efficient, optimal delivery of care to the patient regardless of whether the practice is employed or contracted, fee for service or risk model.
+
+Examples: Contracted",EnterpriseCapability L2,421-5566-0
+65,1.7.2.5,Ancillary Services - UCS,"Care team ordering and coordinating services including diagnostic, therapeutic and custodial as part of managing the patient's short and long-term care plan.
+
+Ancillary services fall into three broad categories: diagnostic, therapeutic and custodial.",EnterpriseCapability L2,421-5567-0
+66,1.7.2.5.1,Diagnostic - UCS,"Care services related to diagnosis of member.
+
+Examples include:
+CNS ( Certified Nurse Specialist )
+Labs
+Radiology & imaging
+Chiropractic's",EnterpriseCapability L3,421-5922-0
+67,1.7.2.5.2,Therapeutic - UCS,"Therapeutic services to a member
+
+Examples include:
+    Physical Therapy
+    Occupational Therapy
+    Speech Therapy
+    Family Therapy",EnterpriseCapability L3,421-5923-0
+68,1.7.2.5.3,Custodial - UCS,"Clinical custodial resources to work with a member to get additional services or help.
+
+Examples Include:
+    Social Work
+    Master level Prepared ( Social Worker )
+    PHD delivery ( Personal Health Device )",EnterpriseCapability L3,421-5924-0
+69,1.7.2.6,Physician Scheduling - UCS,The ability to optimize physician resource management and productivity in terms of having the ideal quantity and expertise in the ideal care settings to efficiently provide high quality care,EnterpriseCapability L2,421-5568-0
+70,1.7.2.7,Medication Prescription - UCS,Administer member medications.,EnterpriseCapability L2,421-5925-0
+71,1.7.2.8,Orders And Results Management - UCS,"The ability to create a standard set of complaint or diagnosis based orders, and manage results including commercial imaging and labs.",EnterpriseCapability L2,421-5926-0
+72,1.7.2.9,Prescription Management - UCS,The ability to take in traditional mail and specialty medication prescriptions through different channels. The actual intake process is operated separately for TMS and SMS.,EnterpriseCapability L2,421-5927-0
+73,1.7.2.9.1,Prescription Intake - UCS,The ability to take in traditional mail and specialty medication prescriptions through different channels. The actual intake process is operated separately for TMS and SMS.,EnterpriseCapability L3,421-5930-0
+74,1.7.2.9.2,Prescription Processing - UCS,"Ability to create prescription, perform drug utilization review, verify prescription, manage prescription status (profile, cancel, discontinue, invalid, exceptions), manage drug substitution and perform drug monitoring. Ensure prescriptions are compliant with federal laws, federal agency (DEA, CMS, etc.) regulations, state laws and regulation.",EnterpriseCapability L3,421-5931-0
+75,1.7.2.9.3,Prescription Fill Management - UCS,"Ability to manage the prescription lifecycle. (e.g., Number of Fills, Duplicate RX's, Too Soon To Fill, expiration, etc.)",EnterpriseCapability L3,421-5932-0
+76,1.7.2.9.4,Drug Regulatory Data Management - UCS,"Ability to acquire / manage drug regulatory data, analyze drug regulations and implement changes to process to maintain regulatory compliance during prescription processing.",EnterpriseCapability L3,421-5933-0
+77,1.7.2.10,Patient Encounter - UCS,"Patient Communication & Engagement - Effective, patient-centered communication is key to quality care. Good communication is both an ethical imperative, necessary for informed consent and effective patient engagement, and a means to avoid errors, improve quality, save money and achieve better health outcomes.",EnterpriseCapability L2,421-5928-0
+78,1.7.2.10.1,Visit Prep & Screening - UCS,"Pre-visit, preorder … everything that is done prior to the visit to support the visit. Print attestation, chief complaint, medical history reconciliation, prepare doctor for the patient visit. Preparing the patient as well (fasting).
+
+Examples: Pre-visit (2+ days): Review and contact with patient to get any necessary tests, discuss gaps. Day of or day before visit: Care team huddle to review patient roster. Day of visit: Patient intake through the rooming process - MA collects vitals and performs checklist of questions for the patient and makes sure patient is fully prepared for provider visit. Following a standard format for this maximizes face-to-face time.",EnterpriseCapability L3,421-5934-0
+79,1.7.2.10.2,Patient Evaluations & Treatment - UCS,"Based on the health problem, data gathering, measuring the data against relevant criteria, employing the results of assessment to develop a plan for improvement of the process, status, behavior or activity evaluated.
+
+Examples Patient interview, check sheet, vitals, meds and chart, history review, collecting background information current and past status, develop plan of care. Episodic and over arching … short term, long term , comprehensive. Team care, specialists etc. PA, RN. Evaluation is delivered by one or more of the care delivery team. :",EnterpriseCapability L3,421-5935-0
+80,1.7.2.10.3,Clinical Notes - UCS,"Documentation of the evaluation, and recommended next steps, code, plan of care, recaptures, symptoms, lab recommendations including lab orders, prescriptions etc.
+
+Examples:
+As a provider sees a patient, they will need to capture all relevant information in an EMR.",EnterpriseCapability L3,421-5936-0
+81,1.7.2.10.4,Ancillary Services Ordering - UCS,"Care team ordering and coordinating services including diagnostic, therapeutic and custodial as part of managing the patient's short and long-term care plan.",EnterpriseCapability L3,421-5937-0
+82,1.7.2.10.5,Specialty Referrals - UCS,"Responsible for managing the formal process that authorizes a formal recommendation by a provider for a person to be evaluated or receive care from a different physician or facility. The recommending of a patient to medical, and/or surgical specialists.
+
+Examples: Authorization out of scope. Primary Care Physician recommend Orthopedic / knee surgery. There may be capabilities to explore here that would enable performing more services in primary care (with the proper support and capacity) that would otherwise be referred out (e.g. gyn, some derm)",EnterpriseCapability L3,421-5938-0
+83,1.7.2.10.6,Patient Education - UCS,"Place or environment where care is delivered.
+
+Examples: Clinic, exam room, group visit, evist and portal, video visit, phone, home, work, field - mobile, lifestyle center / clinic?, senior center (events), educational seminars and socialization center with care and exam rooms, life skills training, nursing homes, hospice",EnterpriseCapability L3,421-5939-0
+84,1.7.2.10.7,Patient Post Visit - UCS,Provider follow-up with patient after original encounter (post-visit).,EnterpriseCapability L3,421-5940-0
+85,1.7.2.10.8,Team Care - UCS,"Primary physician led team comprised of medical assistants, nurses, case managers, physician assistants, specialists, and therapists working collectively in an efficient and organized fashion to provide care to patients. All team members working at the top of their license. Employing and leveraging technology to support communication between team members.
+
+Examples: Somewhat mature and well-known examples of team care in the industry have been documented at Virginia Mason Medical Center and ThedaCare. Successful team care models are still in the early stages.",EnterpriseCapability L3,421-5941-0
+86,1.7.2.10.9,Delivery Venue - UCS,"Place or environment where care is delivered.
+
+Examples: Clinic, exam room, group visit, evist and portal, video visit, phone, home, work, field - mobile, lifestyle center / clinic?, senior center (events), educational seminars and socialization center with care and exam rooms, life skills training, nursing homes, hospice",EnterpriseCapability L3,421-5942-0
+87,1.7.2.10.10,Patient Communication And Engagement - UCS,"Place or environment where care is delivered.
+
+Examples: Clinic, exam room, group visit, evist and portal, video visit, phone, home, work, field - mobile, lifestyle center / clinic?, senior center (events), educational seminars and socialization center with care and exam rooms, life skills training, nursing homes, hospice",EnterpriseCapability L3,421-5943-0
+88,1.7.3,Health Decision Support - UCS,"The business capability of identifying and communicating a set of service options directly to the consumer [or to a healthcare service provider making decisions on behalf of the consumer], in order to promote informed decision making.",EnterpriseCapability L1,421-5540-0
+89,1.7.3.1,Health Education - UCS,"Provide clinical educational resources for consumers on a variety of topics including behavioral, medical and pharmacy.
+
+Medical information booklets or brochures on disease mgmt.
+
+The business capability involving the planning, development and organization of content on a wide variety of health topics. Includes managing the process of content creation, editing, clinical review, finalization, and memorialize.",EnterpriseCapability L2,421-5570-0
+90,1.7.3.2,Provider Selection - UCS,"This business capability guides  a consumer to the best physician or care facility based  on cost, quality and efficiency scores, premium designation, network status, medical specialty, and  geo-location.
+
+Process:
+- Search criteria entered, including but not limited to: provider type, location, name, specialty, etc.
+- Entered search criteria used to interrogate Optum’s listings for matches.
+- Corresponding matches are returned to user.
+- In some cases, document the selected provider or facility.",EnterpriseCapability L2,421-5571-0
+91,1.7.3.2.1,Physician Selection - UCS,"This business capability guides  a consumer to the best physician or care facility based  on cost, quality and efficiency scores, premium designation, network status, medical specialty, and  geo-location.
+
+Process: 
+- Search criteria entered, including but not limited to: provider type, location, name, specialty, etc. 
+- Entered search criteria used to interrogate Optum’s listings for matches.  
+- Corresponding matches are returned to user.  
+- In some cases, document the selected provider or facility.",EnterpriseCapability L3,421-5631-0
+92,1.7.3.2.2,Facility Selection - UCS,"Guiding a consumer to the best facility based on cost, quality and efficiency",EnterpriseCapability L3,421-5632-0
+93,1.7.3.3,Treatment Selection - UCS,Provides consumer support in selecting the right care or treatment options based on consumer needs and costs.,EnterpriseCapability L2,421-5572-0
+94,1.7.3.3.1,Customer Clinic Call Triage - UCS,"Taking in and assessing the health-related inquiries of consumers, and then providing them with recommendations to address their needs.",EnterpriseCapability L3,421-5638-0
+95,1.7.3.3.2,Treatment Options Determination - UCS,Assisting consumers in selection of the right treatment relevant to their healthcare needs.,EnterpriseCapability L3,421-5639-0
+96,1.7.3.3.3,Health Care Cost Estimation- UCS,The business capability of helping individual consumers manage the finances related to their health care.,EnterpriseCapability L3,421-5640-0
+97,1.7.3.4,Care Delivery Decision Support - UCS,"Care delivery decision support is the operational assignment across Care Management to enable multidisciplinary, continuum-based approach for successful management of health care services and treatment plans.
+
+The business capability of supporting optimal care decisions at the point of care.
+
+Process:
+- Identifying potential participants
+- Outreach to get buy-in
+- Assessment of patient needs and readiness to participate
+- Identifying gaps in patient knowledge
+- Putting together a mutually agreed upon care plan with prioritized goals
+- Identifying barriers and strengths (e.g. support network)
+- Constant re-evaluation and modification of the care plan accordingly",EnterpriseCapability L2,421-5573-0
+98,1.7.3.4.1,Diagnosis Support - UCS,"Activities related to the diagnosis made by a physician or nurse practitioner, which may also be performed by nurses or other health professionals.
+
+This business capability of helping health professionals identify the proper diagnosis for a consumer. May include tools, guides, evaluation criteria, etc. May be manual or automated.
+
+Process:
+- Health provider collects information on consumer’s health condition.
+- Health provider provides information for review.
+- Consumer health data is assessed against clinical guidelines.
+- Suggested possible diagnoses are presented.",EnterpriseCapability L3,421-5947-0
+99,1.7.3.4.2,Care Quality Support - UCS,"The business capability of helping health professionals conduct the proper procedures on or provide the proper service to consumers in order to promote optimal health outcomes and reduce mistakes.
+
+Process:
+- Care path is determined.
+- Key items along the care path are reviewed and emphasized for criticality.
+- Based on condition and care path, protocols are identified and communicated.
+- Protocols are used by the care provider delivering the service.
+- In some cases, protocols are documented and reviewed retrospectively.",EnterpriseCapability L3,421-5948-0
+100,1.7.3.5,Medication Management - UCS,"Medication therapy management (MTM) is medical care provided by pharmacists whose aim is to optimize drug therapy and improve therapeutic outcomes for patients. Eleven national pharmacy organizations adopted this definition in 2004.
+Medication therapy management includes a broad range of professional activities, including but not limited to performing patient assessment and/or a comprehensive medication review, formulating a medication treatment plan, monitoring efficacy and safety of medication therapy, enhancing medication adherence through patient empowerment and education, and documenting and communicating MTM services to prescribers in order to maintain comprehensive patient care.
+
+Medication therapy management includes five core components: a medication therapy review (MTR), personal medication record (PMR), medication-related action plan (MAP), intervention and/or referral, and documentation and follow-up. A MTR is a systematic process of collecting patient and medication-related information which occurs during the pharmacist-patient encounter. In addition, the MTR assists in the identification and prioritization of medication-related problems. During the MTM encounter, the pharmacist develops a PMR for use by the patient. The PMR includes all prescription and nonprescription products and requires updating as necessary. After assessing and identifying medication-related problems, the pharmacist develops a patient-specific MAP. The MAP is a list of self-management actions necessary to achieve the patient’s specific health goals. In addition, the patient and pharmacist utilize the MAP to record actions and track progress towards health goals. During the MTM session, the pharmacist identifies medication-related problem(s) and determines appropriate intervention(s) for resolution. Often, the pharmacist collaborates with other health care professionals to resolve the identified problem(s). Following the patient encounter and/or intervention, the pharmacist must document his/her encounter and determine appropriate patient follow-up.
+
+Pharmaceutical define care as the provision of drug therapy in order to achieve definite outcomes that improve a patient’s quality of life. Outcomes include cure of a disease, elimination or reduction of a patient’s symptomatology, arresting or slowing of a disease process, and preventing a disease or symptomatology. The process includes pharmacist collaboration with other health care professionals in designing, implementing, and monitoring a therapeutic plan for a patient. Pharmaceutical care focuses on the pharmacist’s role in achieving therapeutic goals to improve the patient’s quality of life.
+
+The Medicare Modernization Act of 2003, requires Medicare Part D prescription drug plans to include medication therapy management services delivered by a qualified healthcare professional, including pharmacists, beginning in 2006. MTM services target beneficiaries who have multiple chronic conditions (such as diabetes, asthma, hypertension, hyperlipidemia, and congestive heart failure), take multiple medications, or are likely to incur annual costs above a predetermined level.[3] Medication therapy management is a unique niche for the pharmacy profession, allowing pharmacists to apply their extensive medication knowledge as medication experts with the intent of improving patient outcomes.
+
+Examples include: Lower Cost Alternatives",EnterpriseCapability L2,421-5944-0
+101,1.7.3.5.1,Medication Utilization - UCS,"An authorized, structured, ongoing program that collects, analyzes, and interprets drug use patterns to improve the quality of pharmacotherapy and patient outcomes
+
+This business capability of identifying opportunities for preferred alternatives in support of most efficiently achieving individual consumer goals.
+
+Process:
+- Consumer medication lists generated and evaluated, manually or automated.
+- Up-to-date medication cost information retrieved.
+- Potential alternatives with the same or similar efficacy are identified. [Mail Order, Generic, Lower Tier, etc.]
+- Existing to alternatives cost assessment is made.
+- Conversion options identified and communicated.
+- In some cases, conversions are automatically applied.
+- Conversions and resulting savings are documented.",EnterpriseCapability L3,421-5945-0
+102,1.7.3.5.2,Medication Review - UCS,"Medication review is “a structured, critical examination of a patient’s medicines with the objective of reaching an agreement with the patient about treatment, optimizing the impact of medicines, minimizing the number of medication related problems and reducing waste”.
+
+Business capability of identifying opportunities to promote optimal health, outcomes, efficacy, and to lower possible medication-related health risks. [May include alerts and recalls.]
+
+Process:
+- Consumer medication lists evaluated – manually or automated – against up-to-date best practice and therapy guidelines.
+- Possible health concerns are identified, including: adherence, contraindications, interactions, duplicate therapies, etc.
+- Opportunities for improvement are prioritized and communicated to the appropriate parties for proper intervention.
+- In some cases, interventions are documented.
+- When possible, follow-up occurs to validate interventions took place.",EnterpriseCapability L3,421-5946-0
+103,1.7.4,Health and Care Management - UCS,"The Health & Care Management business capability is an approach to managing and/or improve the health of an individual as well as optimize the cost and quality of care for an individual across a spectrum of health services including medical, behavioral, physical health, prescription management, etc.",EnterpriseCapability L1,421-5541-0
+104,1.7.4.1,Case Management - UCS,"The identification and solving of issues related to the health and productivity/quality of life outcomes of individuals, spanning across the health care continuum; including prevention and wellness to advanced illness & end of life. Generally, episodic focused.",EnterpriseCapability L2,421-5574-0
+105,1.7.4.1.1,Medical Case Management - UCS,"Medical case management is a collaborative process that facilitates recommended treatment plans to assure the appropriate medical care is provided to disabled, ill or injured individuals. It is a role frequently overseen by patient advocates.
+
+It refers to the planning and coordination of health care services appropriate to achieve the goal of medical rehabilitation. Medical case management may include, but is not limited to, care assessment, including personal interview with the injured employee, and assistance in developing, implementing and coordinating a medical care plan with health care providers, as well as the employee and his/her family and evaluation of treatment results.
+
+Medical case management requires the evaluation of a medical condition, developing and implementing a plan of care, coordinating medical resources, communicated healthcare needs to the individual, monitors an individual’s progress and promotes cost-effective care.
+
+The term also has usage in the USA health care system, referring to the case management coordination in the Managed care environment.",EnterpriseCapability L3,421-5651-0
+106,1.7.4.1.2,Behavioral Case Management - UCS,Behavioral health outcome management (BHOM) involves the use of behavioral health outcome measurement data to help guide and inform the treatment of each individual patient.,EnterpriseCapability L3,421-5964-0
+107,1.7.4.1.3,Alternative Treatment Case Management - UCS,"Alternative medicine is any practice that is put forward as having the healing effects of medicine, but does not originate from evidence gathered using the scientific method,is not part of biomedicine,or is contradicted by scientific evidence or established science.It consists of a wide range of health care practices, products and therapies, ranging from being biologically plausible but not well tested, to being directly contradicted by evidence and science, or even harmful or toxic.Examples include new and traditional medicine practices such as homeopathy, naturopathy, chiropractic, energy medicine, various forms of acupuncture, traditional Chinese medicine, Ayurvedic medicine, Sekkotsu, and Christian faith healing. The treatments are those that are not part of the science-based healthcare system, and are not clearly backed by scientific evidence. Despite significant expenditures on testing alternative medicine, including $2.5 billion spent by the United States government, almost none have shown any effectiveness greater than that of false treatments (placebo), and alternative medicine has been criticized by prominent figures in science and medicine as being quackery, nonsense, fraudulent, or unethical",EnterpriseCapability L3,421-5965-0
+108,1.7.4.1.4,Health And Wellness Case Management - UCS,Delivery of health coaching programs to members to enable healthier lives. Ex. Tobacco cessation or healthy first steps,EnterpriseCapability L3,421-5966-0
+109,1.7.4.1.5,Prescription Case Management - UCS,Pharmaceutical Case Management services involve physicians and pharmacists working together to help patients use their medications safely and effectively,EnterpriseCapability L3,421-5967-0
+110,1.7.4.2,Care Coordination - UCS,"The deliberate organization of patient care activities among two or more participants to facilitate the appropriate services. This involves marshaling personnel and other resources to carry out all care activities, which are often managed by the exchange of information among participants responsible for different aspects of the care. Generally involve coordination of services related to a complex, longer-term episode.",EnterpriseCapability L2,421-5575-0
+111,1.7.4.2.1,Community Services Coordination - UCS,"Medical Social Workers will coordinate with you and your family in accessing community resources within your area. All of us have a right to direct and convenient access to health services that we need to better our health and speed up our recovery.
+
+These are the support services that our team can provide:
+
+-Rehabilitation Planning
+-Assistance in Acquiring Medical Supplies and Equipment
+-Supportive Case Management
+-Parenting Advice and Coaching
+-Grief Counseling
+-Community Resource Coordination
+-Providing Guidance on Healthcare Policy
+-Coordination of Follow-Up Medical Check-Ups or Treatment
+-Private Counseling Services for the Patient
+-Psychosocial Assessments
+-Arranging Inpatient Care or Outpatient Care",EnterpriseCapability L3,421-5957-0
+112,1.7.4.2.2,Provider Coordination - UCS,Referrals among providers to support care delivery. Ex. Primary care referral to specialty care (endocrinologist).,EnterpriseCapability L3,421-5958-0
+113,1.7.4.2.3,Home Care Coordination - UCS,"Coordination of care to be delivered where the patient is located (Office, Home, E/V-visit, Lifestyle Center).",EnterpriseCapability L3,421-5959-0
+114,1.7.4.2.4,Caregiver Coordination - UCS,Medical Social Workers will coordinate with your & your caregiver in accessing community resources within your area. Caregivers are people who care for someone who is sick or disabled.,EnterpriseCapability L3,421-5960-0
+115,1.7.4.2.5,Case Management Coordination - UCS,"Coordination of care in a provider setting, generally facilitated by a nurse on behalf of a provider to ensure adherence to a care plan",EnterpriseCapability L3,421-5961-0
+116,1.7.4.2.6,Utilization Management Coordination - UCS,"
+The Utilization Review Coordinator serves as a leader resource in the utilization review process. They collaborate with physicians and other members of the hospital team to promote and adhere to regulatory compliance to include collection of evidence based quality indicator-compliance with quality before discharge. Understand the different levels of reviews and retrospective reviews such as RAC, MAC, and KEPRO.
+
+The Utilization Review Coordinator, coordinates and conducts initial, concurrent, and retrospective medical necessity reviews. Provides reports and communication to the QAPI/Safety Coordinator, Clinical Staff, and Physicians. Assists as needed in the preparation, readiness, and survey follow-ups as needed.",EnterpriseCapability L3,421-5962-0
+117,1.7.4.2.7,Ancillary Provider Coordination - UCS,"Coordination or between PCP and specialty care ( ENDO, ONC, PT, OT, etc... & vise-versa )
+
+A Medicare (US) term for professional services provided by a hospital or other inpatient health program. As may provide a source of increased revenues and facilitate",EnterpriseCapability L3,421-5963-0
+118,1.7.4.3,Consumer Care Plans - UCS,"The function responsible for managing content used by all stakeholders to define multiple actions for the various conditions or issues identified for the target of the plan. This includes the structure through which goals and care planning activities are organized, communicated and checked for completion. Generally involves long-term and/or chronic conditions.",EnterpriseCapability L2,421-5576-0
+119,1.7.4.3.1,Common Care Plan - UCS,"
+A shared care plan/treatment plan. Ex. Plan of Care (ICUE (internal to UHG only) or an integrated health record (a shared treatment plan with external providers and internal UHG clinicians)
+
+Plan of Care ( POC ) within I-CUE",EnterpriseCapability L3,421-5954-0
+120,1.7.4.3.2,Case Specific Care Plan - UCS,"Transplant, Oncology or High Risk Pregnancy.person
+
+A patient that receives services has an individualized, personalized plan for their supports, formal and informal. The plan is created with the assistance of a person’s Case Manager. The plan identifies the supports the person has chosen to use, the person’s intention or desired outcomes of their supports, who is responsible for the supports, and, how and when those supports will be reviewed for effectiveness. The plan acts as a bridge from the Independent Living Assessment (ILA) to the actual delivery of support services.",EnterpriseCapability L3,421-5955-0
+121,1.7.4.3.3,Integrated Health Profile (360 View)  - UCS,"A capability allowing UHG access to a 360 degree lifetime view of individual consumer’s demographics, preferences, and clinical information.",EnterpriseCapability L3,421-5956-0
+122,1.7.4.4,Complex Case Management - UCS,"Complex Case management is the coordination of care and services provided to eligible members who have experienced a critical event, complex diagnosis and/or multiple co-morbidities that requires extensive use of resources, and who may need help navigating the system to facilitate appropriate delivery of care and services. The goal of CCM is to help members regain optimum health or improved functional ability, in the right setting and in a cost effective manner.
+
+Processes Currently Defined:
+- High level of care coordination.
+- Getting people to correct clinics specializing on certain treatments",EnterpriseCapability L2,421-5577-0
+123,1.7.4.4.1,Complex Medical Case Management - UCS,"Medical case management is a collaborative process that facilitates recommended treatment plans to assure the appropriate medical care is provided to disabled, ill or injured individuals. It is a role frequently overseen by patient advocates.
+
+It refers to the planning and coordination of health care services appropriate to achieve the goal of medical rehabilitation. Medical case management may include, but is not limited to, care assessment, including personal interview with the injured employee, and assistance in developing, implementing and coordinating a medical care plan with health care providers, as well as the employee and his/her family and evaluation of treatment results.
+
+Medical case management requires the evaluation of a medical condition, developing and implementing a plan of care, coordinating medical resources, communicated healthcare needs to the individual, monitors an individual’s progress and promotes cost-effective care.
+
+The term also has usage in the USA health care system, referring to the case management coordination in the Managed care environment.",EnterpriseCapability L3,421-5949-0
+124,1.7.4.4.2,Complex Behavioral Case Management - UCS,Behavioral health outcome management (BHOM) involves the use of behavioral health outcome measurement data to help guide and inform the treatment of each individual patient.,EnterpriseCapability L3,421-5950-0
+125,1.7.4.4.3,Complex Alternative Treatment Case Management - UCS,"Alternative medicine is any practice that is put forward as having the healing effects of medicine, but does not originate from evidence gathered using the scientific method,is not part of biomedicine,or is contradicted by scientific evidence or established science.It consists of a wide range of health care practices, products and therapies, ranging from being biologically plausible but not well tested, to being directly contradicted by evidence and science, or even harmful or toxic.Examples include new and traditional medicine practices such as homeopathy, naturopathy, chiropractic, energy medicine, various forms of acupuncture, traditional Chinese medicine, Ayurvedic medicine, Sekkotsu, and Christian faith healing. The treatments are those that are not part of the science-based healthcare system, and are not clearly backed by scientific evidence. Despite significant expenditures on testing alternative medicine, including $2.5 billion spent by the United States government, almost none have shown any effectiveness greater than that of false treatments (placebo), and alternative medicine has been criticized by prominent figures in science and medicine as being quackery, nonsense, fraudulent, or unethical",EnterpriseCapability L3,421-5951-0
+126,1.7.4.4.4,Complex Health And Wellness Case Management - UCS,Delivery of health coaching programs to members to enable healthier lives. Ex. Tobacco cessation or healthy first steps,EnterpriseCapability L3,421-5952-0
+127,1.7.4.4.5,Complex Prescription Case Management - UCS,Pharmaceutical Case Management services involve physicians and pharmacists working together to help patients use their medications safely and effectively,EnterpriseCapability L3,421-5953-0
+128,1.7.4.5,Health Wellness and Prevention - UCS,"Practice Model Optimization - A patient care delivery model that promotes the simplified, efficient, optimal delivery of care to the patient regardless of whether the practice is employed or contracted, fee for service or risk model.
+
+Examples: Contracted groups could have access to models and ""kits"" that enable transformation (that may be adopted more quickly or readily within employed groups). All medical groups would participate together in collaborative, sharing of best practices and other forums for ensuring optimal practice.",EnterpriseCapability L2,421-5578-0
+129,1.7.5,Utilization Management - UCS,"Action taken to ensure that members receive care that provides the best possible outcome.  Monitoring care, working with providers and intervening as necessary to ensure that members receive the right care in the right setting for their particular situation.",EnterpriseCapability L1,421-5542-0
+130,1.7.5.1,Health Services Intake Management - UCS,The business capability by which communication from providers regarding care or services for consumers is documented.,EnterpriseCapability L2,421-5582-0
+131,1.7.5.1.1,Pre-Certification Management - UCS,"The functional capability that is responsible for conducting the authorization for proposed services that meet the clinical requirements for medical necessity, appropriateness, level of care, or effectiveness under the provisions of the applicable health",EnterpriseCapability L3,421-5973-0
+132,1.7.5.1.2,Provider Referral Management - UCS,The functional capability that is responsible for managing the formal process that authorizes a formal recommendation by a provider for a person to be evaluated or receive care from a different physician or facility.,EnterpriseCapability L3,421-5974-0
+133,1.7.5.2,Clinical Coverage Review - UCS,"The business capability which includes administrative, non-clinical, medical director and clinical decision process that use relevant administrative and clinical information for the purpose of determining whether to approve benefit coverage for services being requested. The value is to influence care before any services are rendered.",EnterpriseCapability L2,421-5583-0
+134,1.7.5.2.1,Coverage Determination - UCS,The functional capability that is responsible for making coverage associated decision by thorough review of relevant information for the purpose of determining whether to approve benefit coverage or to provide certification for services being requested.,EnterpriseCapability L3,421-5968-0
+135,1.7.5.2.2,Medical Necessity Confirmation - UCS, Confirm that the service is necessary as a result of a medical condition.,EnterpriseCapability L3,421-5969-0
+136,1.7.5.2.3,Retrospective Review - UCS,The functional capability that is responsible for conducting an administrative or clinical review after services have been provided or when a patient is discharged prior to approving the next course of stay; also called post service.,EnterpriseCapability L3,421-5970-0
+137,1.7.5.2.4,Benefits Validation - UCS,"Ensure the consumer has the appropriate benefits and qualifications for a requested/received service, clinical program or product.",EnterpriseCapability L3,421-5971-0
+138,1.7.5.2.5,Clinical Appeals and Grievances - UCS,Respond to physician's appeals and/or grievances around medical decisions rendered to adjust treatment as needed.,EnterpriseCapability L3,421-5972-0
+139,1.7.5.3,Inpatient Care Management - UCS,The business capability that promotes efficient execution of a physician’s treatment plan to ensure optimal and timely treatment throughout the course of a hospital stay.,EnterpriseCapability L2,421-5584-0
+140,1.7.5.4,Repatriate Patients - UCS,"The process of moving / transporting a patient from an out of network, non-contracted facility to an in-network, contracted facility post stabilization",EnterpriseCapability L2,421-5585-0
+141,1.7.6,Program Design - UCS,"The Program Design business capability is an approach that drives optimal alignment between the clinical-based programs, product development, and value they deliver to the market place. Value is quantified in terms of the monetization of programs (e.g. expected cost savings), adherence to clinical practice standards and expected health outcomes (aggregate improvement in health outcomes within a population).",EnterpriseCapability L1,421-5543-0
+142,1.7.6.1,Program Definition - UCS,"The business capability incorporating actions and an approach that, together, result in the creation of a set of activities and/or services that deliver measurable health and/or wellness value to constituent(s).",EnterpriseCapability L2,421-5590-0
+143,1.7.6.1.1,Clinical Standards Management - UCS,"Interpret Regulatory guidelines - Regulatory inputs are critical for Medical Policy Management, as the types and weighting of different guidelines vary by segment.   This includes guidelines from the federal government, state governments and accreditation agencies.  In some cases government inputs require interpretation by UHG clinicians, this capability covers that type of review and clinical interpretation. This does NOT include accommodating clauses requested by specific customer; that would become an issue of coverage and therefore part of benefit administration.  However, this capability would include medical review of clauses to ensure they comply with applicable regulations.
+
+Integrate Evidence Based Medicine guidelines - Medical policy input based on observations on the most effective, economical outcomes.  This is typically an input based on internal analysis UHG's claims history and outcomes, however external evidence may also be considered (for example based on medical partnerships).",EnterpriseCapability L3,421-6030-0
+144,1.7.6.1.2,Clinical Model Of Care Management - UCS,"Enterprise Models of Care – This is the overall model of care for member interaction approach and general direction for United Health Group based on the Healthier Lives Model.
+
+Commercial Model of Care – This is for the specific population subset model of care for Commercial adopting concepts from the Enterprise Model of Care.
+
+Medicaid Model of Care – This is the specific population subset model of care for Medicaid adopting concepts from the Enterprise Model of Care.
+
+Medicare Model of Care – This is for the specific population subset model of care for Medicare adopting concepts from the Enterprise Model of Care.",EnterpriseCapability L3,421-6031-0
+145,1.7.6.1.3,Clinical Content Management - UCS,"The creation and management of content for consumers or nurses that support the care interventions.  These include the following:
+
+ - Interventions Steps
+ - Clinical Talking Points
+ - Consumer Education Materials
+ - Care pathway prioritization indicators",EnterpriseCapability L3,421-6032-0
+146,1.7.6.1.4,Propensity Modeling And Segmentation - UCS,"Turning in-depth consumer data into a unified and actionable understanding that informs the following:
+
+- Marketing Activation
+- Investment Prioritization
+- Product and Service Development
+- Customer Loyalty
+- Business Strategy
+- Consumer Engagement and Change
+
+Propensity Modeling – Analyzing the drivers for a consumer’s likelihood to engage within a clinical model.
+
+Segmentation: Defining and sub-dividing a large homogeneous market into clearly identified segments having similar needs, wants, or demand groupings.
+
+Typically based on the PAM score.",EnterpriseCapability L3,421-6033-0
+147,1.7.6.1.5,Operational Models Management - UCS,"Turning in-depth consumer data into a unified and actionable understanding that informs the following:
+
+- Marketing Activation
+- Investment Prioritization
+- Product and Service Development
+- Customer Loyalty
+- Business Strategy
+- Consumer Engagement and Change
+
+Propensity Modeling – Analyzing the drivers for a consumer’s likelihood to engage within a clinical model.
+
+Segmentation: Defining and sub-dividing a large homogeneous market into clearly identified segments having similar needs, wants, or demand groupings.
+
+Typically based on the PAM score.",EnterpriseCapability L3,421-6034-0
+148,1.7.6.2,Identification Rules - UCS,The functional capability responsible for administering a common identification of a member across all digital shared information. The 'Golden Record'. (MDM),EnterpriseCapability L2,421-6035-0
+149,1.7.6.3,Stratification Rules - UCS,The functional capability responsible for administering a common identification of a member across all digital shared information. The 'Golden Record'. (MDM),EnterpriseCapability L2,421-6036-0
+150,1.7.6.4,Formulary Management - UCS,Manage the OptumRx formulary strategy ( Optum RX),EnterpriseCapability L2,421-5975-0
+151,1.7.6.4.1,Formulary Strategy Management - UCS,"Manage the OptumRx formulary strategy to address internal and external business drivers. Includes improving OptumRx margins, providing the lowest net cost to clients, and addressing specific benefit and utilization strategies driven by the marketplace.",EnterpriseCapability L3,421-6038-0
+152,1.7.6.4.2,Independent Review And Oversight - UCS,"Use of independent healthcare professionals to review and approve formulary and other program decisions. Ensures that all such decisions, e.g. specific formulary exclusions, can be supported by sound clinical reasoning.",EnterpriseCapability L3,421-6039-0
+153,1.7.6.5,Delegation Audits,"The process where the Health Plan conducts an audit of the RBE to ensure compliance with the delegation of services agreement. Includes review of functions such as authorization processing, clinical decision making, appeal/grievance processing, member communications, etc.",EnterpriseCapability L2,421-6037-0
+154,1.7.7,Integrated Health Profile - UCS,"Single source of member health information, containing all care related information (medical, behavioral and pharmaceutical).
+
+A capability allowing access to a 360° lifetime view of individual consumer’s demographics, preference, and clinical information.",EnterpriseCapability L1,421-5544-0
+155,1.7.7.1,Health Data Integration and Exchange - UCS,"The ability to share relevant and timely health information across the entire Healthcare landscape in a secure and efficient manner to help improve outcomes. Sharing data across a multitude of Clinicians and Providers.
+
+Examples: Discharge current medication and PCP follow up visit within 5 days to avoid readmission. Scheduling, EMR, PM, Pharmacy, Case Management Systems",EnterpriseCapability L2,421-6040-0
+156,1.7.7.1.1,Direct Exchange - UCS,"(Per healthit.gov) Directed exchange is used by providers to easily and securely send patient information—such as laboratory orders and results, patient referrals, or discharge summaries—directly to another health care professional. This information is sent over the internet in an encrypted, secure, and reliable way amongst health care professionals who already know and trust each other, and is commonly compared to sending a secured email. This form of information exchange enables coordinated care, benefitting both providers and patients. For example:
+
+A primary care provider can directly send electronic care summaries that include medications, problems, and lab results to a specialist when referring their patients. This information helps to inform the visit and prevents the duplication of tests, redundant collection of information from the patient, wasted visits, and medication errors.
+Directed exchange is also being used for sending immunization data to public health organizations or to report quality measures to The Centers for Medicare & Medicaid Services (CMS).",EnterpriseCapability L3,421-6041-0
+157,1.7.7.1.2,Query Based Exchange - UCS,"(per healthit.gov) Query-based exchange is used by providers to search and discover accessible clinical sources on a patient. This type of exchange is often used when delivering unplanned care. For example:
+
+Emergency room physicians who can utilize query-based exchange to access patient information—such as medications, recent radiology images, and problem lists—might adjust treatment plans to avoid adverse medication reactions or duplicative testing.
+If a pregnant patient goes to the hospital, query-based exchange can assist a provider in obtaining her pregnancy care record, allowing them to make safer decisions about the care of the patient and her unborn baby.",EnterpriseCapability L3,421-6042-0
+158,1.7.7.1.3,Consumer Mediated Exchange - UCS,"(per healthit.gov) Consumer-mediated exchange provides patients with access to their health information, allowing them to manage their health care online in a similar fashion to how they might manage their finances through online banking. When in control of their own health information, patients can actively participate in their care coordination by:
+
+Providing other providers with their health information
+Identifying and correcting wrong or missing health information
+Identifying and correcting incorrect billing information
+Tracking and monitoring their own health",EnterpriseCapability L3,421-6043-0
+159,1.7.7.1.4,Electronic Personal Health Record Exchange - UCS,"
+HIE electronic exchange of PHR ( Personal Health Record )
+Enabling bi-directional sharing of member medical information.
+
+Leveraging PCCM technology.
+
+Support Optum Gov Solutions (OMMS, Direct to State, Business)
+
+HIE: Health information exchange (HIE) is the ability to collect and synthesize EMR data electronically across multiple organizations within a region, community or state. This information is collected and lands within a cloud-based platform to allow the sharing of patient information enabling a patient centric, holistic approach of care delivery.",EnterpriseCapability L3,421-6044-0
+160,1.8,Provider Management - UHG,,EnterpriseDomain L0,421-6202-0
+161,1.8.1,Provider & Network Management -UHG,,EnterpriseCapability L1,421-6236-0
+162,1.8.2,Provider Contract Management - UHG,,EnterpriseCapability L1,421-6237-0
+163,1.8.3,Provider Engagement - UHG,,EnterpriseCapability L1,421-6238-0
+164,1.8.4,Value Based Reimbursement - UHG,,EnterpriseCapability L1,421-6239-0
+165,1.9,Financial Management - UHG,,EnterpriseDomain L0,421-6240-0
+166,1.9.1,Financial Accounting & Recording - UHG,,EnterpriseCapability L1,421-6241-0
+167,1.9.2,Financial Planning & Management - UHG,,EnterpriseCapability L1,421-6242-0
+168,1.9.3,Financial Operations Support - UHG,,EnterpriseCapability L1,421-6243-0
+169,1.9.4,Financial Regulatory & Compliance - UHG,,EnterpriseCapability L1,421-6244-0
+170,1.10,Organizational Support - UHG,,EnterpriseDomain L0,421-6245-0
+171,1.10.1,Regulatory Compliance & Management - UHG,,EnterpriseCapability L1,421-6246-0
+172,1.10.2,Human Capital Management - UHG,,EnterpriseCapability L1,421-6247-0
+173,1.10.3,Legal Services & Support - UHG,,EnterpriseCapability L1,421-6248-0
+174,1.11,Constituent Services - UHG,,EnterpriseDomain L0,421-6249-0
+175,1.11.1,Constituent Experience - UHG,,EnterpriseCapability L1,421-6250-0
+176,1.11.2,Material Fulfillment - UHG,,EnterpriseCapability L1,421-6251-0
+177,1.11.3,Appeals & Grievances - UHG,,EnterpriseCapability L1,421-6252-0
+178,1.12,Information Technology Management - UHG,,EnterpriseDomain L0,421-6253-0
