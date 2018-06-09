@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+@import 'bootstrap';
+
+// Define defaults for each variable.
+$primary-orange: #f26431;
+$primary-gray: #3f4b5b;
+$primary-tan: #afa18f;
+
+// colors for the header (shrink = the static mode after scrolling some)
+$header-dark: #0f1715;
+$header-bg-shrink: rgba(15,23,21,0.8);
+$header-bg: $header-dark;
+$header-fg: #fff;
+
+// would normally be imported from bootstrap sass files
+$column-gutter: 15px;
+
+// so we can tweak easy when altering fonts
+$font-weight-heading:       300;
+$font-weight-heading-light: 100;
+$font-weight-content:       200;
+
+$font-weight-button:        $font-weight-content;
+$font-weight-heading-bold:  500;
+$font-weight-nav-links:     $font-weight-heading;
+
+//$sub-title: rgb(59, 82, 100);
+//$title: rgb(227, 96, 76);
+
+//$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+//$base-font-size:   16px !default;
+//$base-font-weight: 400 !default;
+//$small-font-size:  $base-font-size * 0.875 !default;
+//$base-line-height: 1.5 !default;
+//
+//$spacing-unit:     30px !default;
+//
+//$text-color:       #111 !default;
+//$background-color: #fdfdfd !default;
+//$brand-color:      #2a7ae2 !default;
+//
+//$grey-color:       #828282 !default;
+//$grey-color-light: lighten($grey-color, 40%) !default;
+//$grey-color-dark:  darken($grey-color, 25%) !default;
+//
+//$table-text-align: left !default;
+//
+//// Width of the content area
+//$content-width:    800px !default;
+//
+//$on-palm:          600px !default;
+//$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+
+//@mixin media-query($device) {
+//  @media screen and (max-width: $device) {
+//    @content;
+//  }
+//}
+//
+//@mixin relative-font-size($ratio) {
+//  font-size: $base-font-size * $ratio;
+//}
+
+// Import partials.
+@import
+  //"akser/bootstrap",
+  "akser/font-awesome",
+  "akser/ionicons",
+  "akser/owl.carousel.min",
+  "akser/owl.theme.default.min",
+  "akser/lity.min",
+  "akser/lightbox",
+  "akser/style",
+  "akser/media" ,
+  "akser/animate",
+  "akser/custom"
+;
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800);

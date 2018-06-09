@@ -1,0 +1,52 @@
+/* Smart Phones And Tablets */
+@media (max-width: 767px)
+{
+	.team-style-1 .item .image,
+	.team-style-2 .item .image,
+	.team-style-3 .item .image{height: 230px; width: 230px;}
+	
+	.two-screens-style-1 .main-item,
+	.two-screens-style-2 .main-item{padding: 70px 0px;}
+	
+	.font-size-16{font-size: 15px;}
+	.font-size-18{font-size: 17px;}
+	.font-size-20{font-size: 19px;}
+	.font-size-22{font-size: 21px;}
+	.font-size-26{font-size: 25px;}
+	.font-size-30{font-size: 28px;}
+	.font-size-35{font-size: 31px;}
+	.font-size-40{font-size: 33px;}
+	.font-size-45{font-size: 36px;}
+	.font-size-50{font-size: 39px;}
+	.font-size-60{font-size: 46px;}
+	.font-size-70{font-size: 50px;}
+
+	h1{font-size: 38px; line-height: 48px;}
+	h2{font-size: 34px; line-height: 42px;}
+	h3{font-size: 30px; line-height: 35px;}
+	h4{font-size: 27px; line-height: 30px;}
+	
+	.header .navbar-nav { float: none; background-color: #fff; }
+    
+	.header.shrink .navbar-nav li a,
+	.header .navbar-nav li a {  padding: 10px 10px; display: block; color: #222; }
+	
+    .two-screens-style-1 .back,
+	.two-screens-style-2 .back{position: relative; height: 500px; left: 0; right: 0; }
+}
+
+/* Small Screen */
+@media (min-width: 768px) and (max-width: 991px)
+{
+}
+
+/* Medium Screen */
+@media (min-width:992px) and (max-width: 1199px)
+{   
+     
+}
+
+/* Large Screen */
+@media (min-width:1200px)
+{
+}

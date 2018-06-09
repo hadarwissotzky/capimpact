@@ -1,0 +1,208 @@
+---
+layout: page
+title: Contact
+headerBackgroundStyle: transparent
+---
+
+<!-- start div video-container -->
+<div class="video-container flex" id="home">
+    <video loop muted autoplay poster="#" class="video-background">
+        <source src="{{ "assets/video/Keyboard-640x360.mp4" | relative_url }}" type="video/mp4">
+    </video>
+    <div class="overlay">
+
+        <!-- start section contact -->
+        <section id="contact" class="sec-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>We are ready when you are</h2>
+                        <p>
+                            If you’ve got a big idea, we’d love to hear about it. We work best with clients who share
+                            our passion for innovative solutions. Let’s build something great together.
+                        </p>
+                        <h3>Call or E-mail us</h3>
+                        <p> &gt;&gt; {{ site.phone }}</p>
+                        <p> &gt;&gt; {{ site.email }}</p>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="contact-form">
+                            <form class="form" id="contact-form" method="post" action="contact.php">
+                                <div class="messages"></div>
+                                <div class="controls">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label class="fa fa-user-o"></label>
+                                                <input id="form_name" class="form-control" type="text" name="name" placeholder="Name"  required="required" data-error="Firstname is required.">
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label class="fa fa-envelope-o"></label>
+                                                <input id="form_email" class="form-control" type="email" name="email" placeholder="Email" required="required" data-error="Valid email is required.">
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label class="fa fa-edit"></label>
+                                                <input id="form_subject" class="form-control" type="text" name="subject" placeholder="Subject">
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label class="fa fa-comments-o"></label>
+                                                <textarea id="form_message" class="form-control" name="message" placeholder="Message" rows="6" required="required" data-error="Message."></textarea>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-offset-3 col-sm-6">
+                                            <input type="submit" value="Send message">
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div id="map"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end section contact -->
+    </div>
+</div>
+<!-- end div video-container -->
+
+<!-- start section contact -->
+<section id="contact" class="contact sec-padding">
+    <div class="container">
+        <h1 class="heading">
+            <span class="first">Get In Touch</span>
+            <br>
+            Contact <span class="second">Us</span>
+        </h1>
+        <p class="para">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printern.</p>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="item">
+                    <i class="fa fa-mobile default-background"></i>
+                    <h5>Phone</h5>
+                    <p>+01 23456789</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="item">
+                    <i class="fa fa-envelope-o default-background"></i>
+                    <h5>Mail</h5>
+                    <p>info@gmail.com</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="item">
+                    <i class="fa fa-map-marker default-background"></i>
+                    <h5>Address</h5>
+                    <p>15 El Massara st</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-offset-3 col-md-6">
+                <div class="contact-form">
+                    <form class="form" id="contact-form" method="post" action="contact.php">
+                        <div class="messages"></div>
+                        <div class="controls">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="fa fa-user-o"></label>
+                                    <input id="form_name" class="form-control" type="text" name="name" placeholder="Name"  required="required" data-error="Firstname is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="fa fa-envelope-o"></label>
+                                    <input id="form_email" class="form-control" type="email" name="email" placeholder="Email" required="required" data-error="Valid email is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="fa fa-edit"></label>
+                                    <input id="form_subject" class="form-control" type="text" name="subject" placeholder="Subject">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="fa fa-comments-o"></label>
+                                    <textarea id="form_message" class="form-control" name="message" placeholder="Message" rows="6" required="required" data-error="Message."></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-sm-offset-3 col-sm-6">
+                                <input type="submit" value="Send message">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!--<div class="col-md-6">-->
+                <!--<div id="map"></div>-->
+            <!--</div>-->
+        </div>
+    </div>
+</section>
+<!-- end section contact -->
+
+
+<!-- start section founder -->
+<section class="our-work">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-4 box">
+                <div class="image">
+                    <img alt="image" src="http://via.placeholder.com/640x426" class="img-responsive" />
+                </div>
+                <div class="item">
+                    <h2>San Francisco, CA</h2>
+                    <p>
+                        1155 Stanyan St
+                        San Francisco, CA
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4 box">
+                <div class="image">
+                    <img alt="image" src="http://via.placeholder.com/640x426" class="img-responsive" />
+                </div>
+                <div class="item">
+                    <h2>Buffalo, NY</h2>
+                    <p>
+                        28 Robin Rd
+                        Buffalo, NY
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4 box">
+                <div class="image">
+                    <img alt="image" src="http://via.placeholder.com/640x426" class="img-responsive" />
+                </div>
+                <div class="item">
+                    <h2>Montevideo, UY</h2>
+                    <p>
+                        Gestido 2616 apto 103,
+                        Montevideo, Uruguay
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
