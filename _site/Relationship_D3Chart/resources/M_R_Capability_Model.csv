@@ -1,0 +1,913 @@
+Nr.,LevelID,Name,Description,Level,Ref ID
+0,3,M_R_Capability_Model,,,
+1,3.2,UnitedHealthcare - M&R,,Segment,421-7-0
+2,3.2.1,Direct and Guide the Organization - M&R,,Domain L0,421-679-0
+3,3.2.1.1,"Establish Mission, Vision and Strategy - M&R",,Capability L1,421-689-0
+4,3.2.1.1.1,Set Mission & Vision - M&R,Create and update the mission which describes the overall purpose of the organization. Foresee an organization that includes the strategic and operational changes that leaders require and demand.,Capability L2,421-731-0
+5,3.2.1.1.2,Strategy Formation - M&R,,Capability L2,421-732-0
+6,3.2.1.1.3,Member Experience Strategy - M&R,Establish and operationalize a member-centric focus and culture in order to provides an integrated experience throughout the member lifecycle,Capability L2,421-733-0
+7,3.2.1.1.4,Align to Strategy - M&R,Identify the key initiatives that are aligned to the business strategies.  Set performance targets related to the strategies that have been established and ensure that the key business initiatives will result in accomplishment of the desired performance goals.  Identify programs that will support the key business initiatives and put in place the funding and resources needed to accomplish them.,Capability L2,421-734-0
+8,3.2.1.1.5,Governance of Strategic Plan - M&R,,Capability L2,421-735-0
+9,3.2.1.2,New Business Development - M&R,,Capability L1,421-690-0
+10,3.2.1.2.1,Analyze Market Opportunities - M&R,,Capability L2,421-736-0
+11,3.2.1.2.2,Develop Market Strategies - M&R,"Market strategy development requires that we understand the market dynamics framed up in the analysis phase of business development. This requires industry expertise and experience. 
+Unique strategic approaches are developed taking into account our internal strength and weaknesses compared to those of our competitors in the market space. Innovation is a key capability that must be consciously developed as we mature our ability to generate go-to-market strategies.
+Strategic partnerships and build/buy decisions are also analyzed as a part of this capability. Factors that influence these decisions may be based on risk, readiness, and fit.",Capability L2,421-737-0
+12,3.2.1.2.3,Evaluate New Product/ Service Viability - M&R,"Once opportunities have been chosen and a strategic market position has been agreed upon, tactical business plans are created to pilot new business ideas in selected markets. Goals are set and measurements are taken to ensure that assumptions about market opportunity and product/service viability are fully tested.
+A formal review of performance over an agreed upon period of time is conducted to determine the success/failure of the pilot. Changes to the new business may be offered at this time, along with a second test of the pilot.
+Once the Pilot has completed it’s intended scope, a formal decision making process is invoked to determine whether or not the new product or service is viable. Determinations are made and documented via a structured decision making process.",Capability L2,421-738-0
+13,3.2.1.2.4,Launch New Product/ Service - M&R,"If a new product or service is deemed viable, the organization has much to do in order to scale the model and roll it out to the entire organization. This requires a high degree of collaboration, stakeholder management, and planning to execute in a meaningful way. To properly shepherd and monitor a roll out, strong Governance (decision making processes) must be established, along with clear Profit & Loss (P&L) accountability. Goals should be determined and agreed upon, along with a supporting budget to meet those goals.
+Collaboration with Product Development capabilities are critical at several points in the process of delivering innovations to our business model. Product managers assist in the definition of the product or service, and are also accountable for implementation and maturation of the new business. They will also likely be responsible for driving activities with Marketing, Distribution, and Operations.",Capability L2,421-739-0
+14,3.2.1.2.5,Perform Merger & Acquisition Due Diligence - M&R,"Review  prospective acquisitions’ financial performance to determine financial viability. One or more of the following may be factored in; asset valuation, historical earnings valuation, future maintainability valuation, relative valuation (competitor comparisons), and cash flow. Develop synergy/savings assumptions to be factored into the purchase. Assess their technologies to determine if there are any that may be leveraged, and how difficult integration may be. Monitor assumptions during negotiation period and communicate changes immediately. Also includes assessing the viability of UHG to support this new business. Must consult with internal entities such as Human Capital, Legal, Regulatory, Procurement, etc.
+Consult legal and regulatory teams for provision of data to government entities. Translate regulatory requests to UHC standard methodology (i.e. geographic vs. sales office). Facilitate provision of data from other UHG segments. At this point the final terms of the contract are negotiated with the acquired entity. May include terms of how long the book of business stays with the entity, how existing resources (people and technologies) will be utilized and allocated.",Capability L2,421-740-0
+15,3.2.1.3,Business Transformation - M&R,,Capability L1,421-691-0
+16,3.2.1.3.1,Define Scope - M&R,"Define scope by establishing high-level parameters for the transformational event.  This includes defining goals, identifying change impact and assigning resources to lead change effort
+
+Business Transformations are large scale transformations including major organizational changes, culture shifts, implementation of new lines of business/products, mergers and acquisitions, etc.",Capability L2,421-741-0
+17,3.2.1.3.2,Plan for Transformation - M&R,,Capability L2,421-742-0
+18,3.2.1.3.3,Engage Stakeholders - M&R,"Engage Stakeholders focuses on building organizational support by assessing the change required, defining and implementing a change management plan and aligning organizational systems to remove barriers and reinforce desired change",Capability L2,421-743-0
+19,3.2.1.3.4,Implement Transformation Plan - M&R,,Capability L2,421-744-0
+20,3.2.1.4,Acquisitions & Migrations - M&R,,Capability L1,421-692-0
+21,3.2.1.4.1,Acquisition Integration - M&R,"Development and implementation of strategy for integrating the acquisition's products, processes, people and technology",Capability L2,421-745-0
+22,3.2.1.4.2,Post-integration Performance Assessment  - M&R,,Capability L2,421-746-0
+23,3.2.1.4.3,Migration Planning & Execution - M&R,"Development and implementation  of migration strategies, plan and timelines",Capability L2,421-747-0
+24,3.2.1.5,"Manage Quality, Risk and Performance - M&R",,Capability L1,421-693-0
+25,3.2.1.5.1,Quality Management - M&R,,Capability L2,421-748-0
+26,3.2.1.5.2,Business Risk Management  - M&R,"On an annual basis our business goes through a process of identifying, categorizing and quantifying risks and their impact to the organization. These are collected by the Chief Financial Officer with the help of the Corporate Risk Management team.
+Once risks have been appropriately categorized, and the impact has been understood, accountability is assigned to senior leaders for an appropriate action plan responding to risk. Action plans usually look at a 12 to 18 month time horizon.",Capability L2,421-749-0
+27,3.2.1.5.3,Oversight - M&R,"Metrics are identified and defined at the functional level, and are mapped to strategic business imperatives. Each function is responsible for collecting, analyzing, and presenting data for a multitude of operational and management needs.",Capability L2,421-2879-0
+28,3.2.1.5.4,Drive Organizational Performance - M&R,"Development and implementation of management systems (goals, dashboards, communication strategy, etc.) that define, communicate and measure organizational performance",Capability L2,421-750-0
+29,3.2.2,Product - M&R,"Product is the function that is responsible for driving sustainable, profitable growth through the development of innovative benefit plans (Medicare Products and Part D) and services.  This includes driving market specific strategies to achieve membership growth and retention objectives.",Domain L0,421-680-0
+30,3.2.2.1,Product Analytics - M&R,"Product Analytics focuses on capabilities that support data gathering, analysis and reporting.  The Analysis capabilities are required to remain compliant; develop insights into existing product offerings and the impacts on member experience as well as developing new innovative products.  This is a core capability to meet long-term growth, cost-efficiency and compliance objectives.",Capability L1,421-694-0
+31,3.2.2.1.1,Collect & Mine Data - M&R,"Collect and aggregate product data for the Individual Medicare Advantage business. This activity takes place year round.
+
+Includes analysis of Annual Enrollment Period (AEP), Special Enrollment Period (SEP) data. Input also gathered from Health Plan CEOs and their teams, and other cross functional M&R business teams. 
+
+
+KEY TECHNOLOGIES & DATA SOURCES
+Competitive Analytics Database (CMS Public Use Files)
+Product Database
+MMR (Member Medicare Report)
+PAPI (Pharmacy Analytics Part D Data Mart)
+FIN360
+Thompson-Reuters Eikon (Market Data & Information)
+Underwriting Files
+FP&A Sourced Data (Milliman Data, NAIC)
+UHN Provider Data
+MIP (Market Intelligence Portal)
+SMRT (Sales Management Reporting Tools)",Capability L2,421-769-0
+32,3.2.2.1.1.1,Gather Competitive Intelligence - M&R,,Capability L3,421-6315-0
+33,3.2.2.1.1.2,Define Executive Strategies & Objectives - M&R,,Capability L3,421-6316-0
+34,3.2.2.1.2,Manage Product Regulatory Data - M&R,"Manage the product and regulatory data for the Individual Medicare Advantage business. This activity takes place year round. 
+
+KEY TECHNOLOGIES & DATA SOURCES
+Competitive Analytics Database (CMS Public Use Files)
+Product Database
+MMR (Member Medicare Report)
+PAPI (Pharmacy Analytics Part D Data Mart)
+FIN360
+Thompson-Reuters Eikon (Market Data & Information)
+Underwriting Files
+FP&A Sourced Data (Milliman Data, NAIC)
+UHN Provider Data
+MIP (Market Intelligence Portal)
+SMRT (Sales Management Reporting Tools)",Capability L2,421-770-0
+35,3.2.2.1.2.1,Aggregate & Manage Data - M&R,,Capability L3,421-6317-0
+36,3.2.2.1.2.2,Input Data Into Product Systems - M&R,,Capability L3,421-6318-0
+37,3.2.2.1.3,Analyze and Interpret Data - M&R,"Multiple product, member, financial, 3rd party sources are referenced, and the data analyzed to determine impact on Medicare Advantage business, place within industry, and overall competitive landscape.
+
+KEY TECHNOLOGIES & DATA SOURCES
+Competitive Analytics Database (CMS Public Use Files)
+Product Database
+MMR (Member Medicare Report)
+PAPI (Pharmacy Analytics Part D Data Mart)
+FIN360
+Thompson-Reuters Eikon (Market Data & Information)
+Underwriting Files
+FP&A Sourced Data (Milliman Data, NAIC)
+UHN Provider Data
+MIP (Market Intelligence Portal)
+SMRT (Sales Management Reporting Tools)",Capability L2,421-771-0
+38,3.2.2.1.3.1,Analyze Multiple Data Sources - M&R,,Capability L3,421-6319-0
+39,3.2.2.1.3.2,Generate Competitive Analysis - M&R,,Capability L3,421-6320-0
+40,3.2.2.1.4,Deliver Product and Regulatory Data - M&R,"Ability to generate required reports that are requested by both CMS and individual States. In short, the work is really regulatory required reporting of Medicare data to state regulators. Data typically member and claim info.
+
+Also could include delivery of  product and regulatory data to strategy, development, operations (e.g. training, materials) teams.
+
+
+Goal is to communicate expected changes in rates and regulations, that will impact these teams, so they can begin to update processes and systems to meet the CMS required changes . In terms of systems, data also needs to be uploaded or manually inputted into systems (e.g. Product Database).
+
+KEY TECHNOLOGIES & DATA SOURCES
+Competitive Analytics Database (CMS Public Use Files)
+Product Database
+MMR (Member Medicare Report)
+PAPI (Pharmacy Analytics Part D Data Mart)
+FIN360
+Thompson-Reuters Eikon (Market Data & Information)
+Underwriting Files
+FP&A Sourced Data (Milliman Data, NAIC)
+UHN Provider Data
+MIP (Market Intelligence Portal)
+SMRT (Sales Management Reporting Tools)",Capability L2,421-772-0
+41,3.2.2.1.4.1,Communicate Regulatory Data - M&R,,Capability L3,421-6321-0
+42,3.2.2.1.4.2,Update Systems & Processes - M&R,,Capability L3,421-6322-0
+43,3.2.2.2,Product Strategy - M&R,"Product Strategy involves capabilities that enable flexible, nimble and collaborative decisions on annual and long term product offerings within the Medicare & Retirement portfolio",Capability L1,421-695-0
+44,3.2.2.2.1,Develop Product Portfolio Strategy - M&R,"Create and deliver product portfolio strategies for all M&R markets, which are leveraged by the Health Plan CEO & their teams, sales and field leaders, and internal operational teams
+
+This is a simulated activity to pit UHC against other carriers in attempt to predict what they would do based on what benefits UHC M&R deploys. M&R makes a best guess as to the other carriers’ strategies, and is based on previous/existing year plans
+
+Collect incoming regulatory data from CMS. Goal is to interpret Rate Notice and  Draft Call Letter, which arrives early February annually. This information is distributed to Compliance, Legal, Product teams with goal of determining (primarily) the impact to the Plan Benefit Package (PBP, i.e. Plans) which will eventually be filed with CMS. Following that product and regulatory data is inputted into appropriate systems, and then socialize to appropriate stakeholders. 
+
+
+KEY TECHNOLOGIES & DATA SOURCES
+Competitive Analytics Database (CMS Public Use Files)
+Product Database
+MMR (Member Medicare Report)
+PAPI (Pharmacy Analytics Part D Data Mart)
+FIN360
+Thompson-Reuters Eikon (Market Data & Information)
+Underwriting Files
+FP&A Sourced Data (Milliman Data, NAIC)
+UHN Provider Data
+MIP (Market Intelligence Portal)
+SMRT (Sales Management Reporting Tools)
+Consumer/Market Research
+CMS Draft Call Letter",Capability L2,421-775-0
+45,3.2.2.2.1.1,Create Product Strategies - M&R,,Capability L3,421-6323-0
+46,3.2.2.2.1.2,Prepare for and Conduct War Games - M&R,,Capability L3,421-6324-0
+47,3.2.2.2.1.3,Interpret Draft Call Letter - M&R,,Capability L3,421-6325-0
+48,3.2.2.2.2,Collaborate and Coordinate Strategy - M&R,"Product strategies are socialized and discussed with key stakeholders.  Results from the War Games are also reported out to stakeholders during this phase. Collaboration with key stakeholders takes place so the product portfolio strategies can be further refined. In terms of MAPD, PDP plans, a determination is made is new or existing formularies will be used.
+
+The final CMS Rate Notice and Draft Call Letter is analyzed, and incorporated into the product strategy.
+
+ KEY TECHNOLOGIES & DATA SOURCES
+Competitive Analytics Database (CMS Public Use Files)
+Product Database
+MMR (Member Medicare Report)
+PAPI (Pharmacy Analytics Part D Data Mart)
+FIN360
+Thompson-Reuters Eikon (Market Data & Information)
+Underwriting Files
+FP&A Sourced Data (Milliman Data, NAIC)
+UHN Provider Data
+MIP (Market Intelligence Portal)
+SMRT (Sales Management Reporting Tools)
+CMS Final Call Letter",Capability L2,421-776-0
+49,3.2.2.2.2.1,Socialize Product Strategies - M&R,,Capability L3,421-6326-0
+50,3.2.2.2.2.2,Report Out on War Games - M&R,,Capability L3,421-6327-0
+51,3.2.2.2.2.3,Interpret Final Call Letter - M&R,,Capability L3,421-6328-0
+52,3.2.2.2.3,Deploy Product Strategy - M&R,"Product strategy is communicated to business stakeholders as well (e.g. Materials, Marketing, Sales, Health Plan CEOs).
+
+KEY TECHNOLOGIES & DATA SOURCES
+Competitive Analytics Database (CMS Public Use Files)
+Product Database
+MMR (Member Medicare Report)
+PAPI (Pharmacy Analytics Part D Data Mart)
+FIN360
+Thompson-Reuters Eikon (Market Data & Information)
+Underwriting Files
+FP&A Sourced Data (Milliman Data, NAIC)
+UHN Provider Data
+MIP (Market Intelligence Portal)
+SMRT (Sales Management Reporting Tools)
+CMS Final Call Letter",Capability L2,421-777-0
+53,3.2.2.2.3.1,Transmit Product Portfolio Data - M&R,,Capability L3,421-6329-0
+54,3.2.2.2.3.2,Prepare for Product Development - M&R,,Capability L3,421-6330-0
+55,3.2.2.2.3.3,Communicate Product Info to Stakeholders - M&R,,Capability L3,421-6331-0
+56,3.2.2.3,Product Development - M&R,"Product Development capabilities enable design and development of cost-effective and competitive products.  The product development capabilities meet the expectations of CMS/Healthcare reform, while balancing the current changing competitive landscape.  Capabilities within development require collecting insights and collaboration with Underwriting, Regional Markets, Sales/Marketing, Operations, Provider Network, Clinical, Constituent Services and our regulators",Capability L1,421-696-0
+57,3.2.2.3.1,Complete Underwriting/ Actuarial Review - M&R,"Actuarial and Underwriting teams, which are part of same broader team, work with product to prepare and submit financial portion of bid. The BPT, or Bid Pricing Tool, creates financial documents in an Excel format that are submitted along with PBP to CMS as part of the bid process. Both pieces must be submitted to together, and benefits ($) must match. A reconciliation takes place between BPT/PBP to ensure they match. 
+
+The Expansion Modeling tool is also used in cases where market expansions are planned as a way to determine financial costs and benefits of doing so.
+
+Note that as of 2017, Group plans no longer need to be submitted as part of bid process per CMS.
+
+
+KEY TECHNOLOGIES & DATA SOURCES
+Product Database (use to capture benefit)
+Underwriting Grid
+Bid Tool (aka Bid Pricing Tool which is an Access database)
+FIN360
+Claim Systems (e.g. NICE, COSMOS, etc.)
+MIP (Market Intelligence Portal, used for competitor information)
+BSM (Benefit Scenario Modeler)
+Expansion Modeling (Excel)",Capability L2,421-778-0
+58,3.2.2.3.1.1,Collect Data to Support BPT - M&R,,Capability L3,421-6332-0
+59,3.2.2.3.1.2,Reconcile BPT and PBP - M&R,,Capability L3,421-6333-0
+60,3.2.2.3.1.3,Create Financial Docs - M&R,,Capability L3,421-6334-0
+61,3.2.2.3.2,Design Annual Plans and Formularies - M&R,"Design product benefit plans as well as formularies to support plans for each product strategy in the bid process (i.e. provide bid support). This includes 360 discussions such as
+
+Roundtable discussions with key stakeholders (e.g. Health Plan CEOs, Sales, Marketing, Finance) as designs are evolving
+Benefit scenario modeling
+War Games & other competitor analysis
+Regulatory assessment
+Downstream impact to materials and operational areas
+
+
+Click here for more details on the formulary design process. 
+
+KEY TECHNOLOGIES & DATA SOURCES
+Product Database
+BSM (Benefit Scenario Modeler)
+Multiple Spreadsheets & Data Inputs (Various UHG teams)
+MIP (Market Intelligence Portal)
+Competitor Intelligence Database
+Actuarial Pricing & Bid Filing Tool",Capability L2,421-779-0
+62,3.2.2.3.2.1,Complete Roundtable Discussions - M&R,,Capability L3,421-6335-0
+63,3.2.2.3.2.2,Complete Plan and Formulary - M&R,,Capability L3,421-6336-0
+64,3.2.2.3.3,Define System/ Data Requirement Changes - M&R,"Primary goal is to determine what changes, if any, have been made to the CMS owned Plan Benefit Package (PBP) software  that is the destination for MA & PDP benefit data. Note it is accessed via their Health Plan Management System (HPMS) website. CMS regularly updates PBP software each year, resulting in system changes in order to capture filed benefits and passed downstream. CMS supplies updated versions of PBP software to carriers in this step.
+
+In addition, changes within internal systems to support new UHC strategies may be required. Downstream partners are engaged in discussions to identify these changes.
+
+KEY TECHNOLOGIES & DATA SOURCES
+CMS PBP Software
+HPMS (Health Plan Management System)
+Product Database
+MAPS (Medicare Admin Plan System)
+GPS (Next Generation Policy System)
+Claim Systems (e.g. NICE, COSMOS, etc.)
+Underwriting Grid
+Actuarial Pricing & Bid Filing Tool",Capability L2,421-780-0
+65,3.2.2.3.3.1,Supplied Updated PBP Version - M&R,,Capability L3,421-6337-0
+66,3.2.2.3.3.2,Complete Changes to Support PBP- M&R,,Capability L3,421-6338-0
+67,3.2.2.3.3.3,Identify Preliminary Changes M&R Systems- M&R,,Capability L3,421-6339-0
+68,3.2.2.3.4,Submit Bid and Finalize Plan - M&R,"Bids are prepared by reconciling and conducting quality assurance on all data, all plans. Primary goal is to successfully submit bid for upcoming plan year (i.e. finalize the bid). Bids are submitted early June of each year. Carriers will receive incremental feedback from CMS between June and July. Then, carriers can make minor changes to bids based on this feedback. Bids are resubmitted from end of July through first week of August during the rebid process. CMS issues final decision on bids around September 1 of each year, approving or rejecting the bids. Approved bids mean carriers may market/sell those plan products.
+
+As the bid process continues, downstream partners are communicated changes so they can continue to make system updates to support the upcoming year’s plans.
+
+Note that in terms of formulary, OptumRx submits formularies to CMS on behalf of M&R for approval.
+
+KEY TECHNOLOGIES & DATA SOURCES
+CMS PBP Software
+HPMS (Health Plan Management System)
+Product Database
+MAP (Medicare Admin Plan System)
+GPS (Next Generation Policy System)
+Claim Systems (e.g. NICE, COSMOS, etc.)
+Underwriting Grid
+Actuarial Pricing & Bid Filing Tool",Capability L2,421-781-0
+69,3.2.2.3.4.1,Prepare for Bids - M&R,,Capability L3,421-6340-0
+70,3.2.2.3.4.2,Review & Rebid - M&R,,Capability L3,421-6341-0
+71,3.2.2.3.4.3,Receive Final Bid Approval - M&R,,Capability L3,421-6342-0
+72,3.2.2.3.5,Design New and/or Innovative Products - M&R,"Occurring in tandem with bid activities, new or innovative products are explored throughout year (e.g. delegated provider groups, risk based contracting, provider tiering). Timing for this activity is fluid.
+
+
+This also includes Product sponsored clinical innovations aimed at:
+
+Leverage wearable tech to improve M&R ability to monitor & improve members' health 
+Reduce readmissions by proactively identifying issues 
+Create coaching opportunities to guide members to better health Better manage diabetes through improved glucose monitoring
+Improve drug adherence through better medication management
+
+KEY TECHNOLOGIES & DATA SOURCES
+CMS PBP Software
+Competitor Data
+Industry Innovation (e.g. wearable tech, virtual visits)
+Competitive Analytics SharePoint Site (incl. STARS data)
+NICE/COSMOS Capabilities
+Optum Capabilities (new products) 
+Ancillary Vendor Capabilities/Utilization
+Financial Data (provider, medical costs, utilization)",Capability L2,421-773-0
+73,3.2.2.3.5.1,Bid Planning for Future Plan Year- M&R,,Capability L3,421-6343-0
+74,3.2.2.3.5.2,Identify Product Opportunities - M&R,,Capability L3,421-6344-0
+75,3.2.2.4,Product Implementation & Deployment - M&R,"Product Deployment capabilities allow dissemination of accurate product data to the appropriate business teams and downstream applications that facilitate sales, enrollment, claims, member services support and Communication & Delivery Service.  Deployment capabilities are not limited to data and applications and are a source of subject matter expertise, readiness preparation and communication of offerings to physicians, members and regulatory agencies.",Capability L1,421-697-0
+76,3.2.2.4.1,Develop Readiness Plans - M&R,"This phase encompasses preparing data and information that needs to be communicated downstream. For example, PBP benefit grids are built, along with eligibility setup and claim rules defined to ensure downstream systems are ready. Testing plans are created to support formulary, benefits, Medicare Plan Finder, DCE (Drug Cost Estimator) as well. 
+ 
+
+KEY TECHNOLOGIES & DATA SOURCES
+Regulatory Reporting
+Product Database
+MAPS (Medicare Admin Plan System)
+Claims Systems (NICE, COSMOS, CSP Facets)
+GPS (Next Generation Policy System)
+UCEE (United Consumer Engagement Engine)
+bConnected (Lead Management)
+LEAN (Landmark Electronic Application Navigator)
+DCE (Drug Cost Estimator)
+Portals (Acquisition, Member, Distribution)
+RxClaim
+CMS Medicare Plan Finder
+UHN (Provider & Plan Data)
+Materials
+Optum Products & Services (e.g. Clinical)
+Finance
+United Clinical Services (iCUE & CareOne)",Capability L2,421-782-0
+77,3.2.2.4.1.1,Build Benefits Grids - M&R,,Capability L3,421-6349-0
+78,3.2.2.4.1.2,Define Eligibility Setup & Claim Rules - M&R,,Capability L3,421-6350-0
+79,3.2.2.4.1.3,Prepare Requirements for Downstream Systems - M&R,,Capability L3,421-6351-0
+80,3.2.2.4.2,Communicate Specifications & Prepare Systems - M&R,"The readiness plan from the previous step is finalized, and specifications/requirements on how to build benefits, setup claims rules, pharmacy setup are communicated to downstream partners. Completed benefit grids, formulary files,  are sent to OptumRx (ORx). Note that custom formularies, leveraged by employer groups, can add significant work.  End goal is to complete setup (deployment) in downstream systems in preparation for quality review and testing.
+
+KEY TECHNOLOGIES & DATA SOURCES
+Regulatory Reporting
+Product Database
+MAPS (Medicare Admin Plan System)
+Claims Systems (NICE, COSMOS, CSP Facets)
+GPS (Next Generation Policy System)
+UCEE (United Consumer Engagement Engine)
+bConnected (Lead Management)
+LEAN (Landmark Electronic Application Navigator)
+DCE (Drug Cost Estimator)
+Portals (Acquisition, Member, Distribution)
+RxClaim
+CMS Medicare Plan Finder
+UHN (Provider & Plan Data)
+Materials
+Optum Products & Services (e.g. Clinical)
+Finance
+United Clinical Services (iCUE & CareOne)",Capability L2,421-783-0
+81,3.2.2.4.2.1,Transmit Data & Files - M&R,,Capability L3,421-6347-0
+82,3.2.2.4.2.2,Complete Setup in Downstream Systems - M&R,,Capability L3,421-6348-0
+83,3.2.2.4.3,Implement Readiness Plans - M&R,"This phase encompasses preparing data and information that needs to be communicated downstream. For example, PBP benefit grids are built, along with eligibility setup and claim rules defined to ensure downstream systems are ready. Testing plans are created to support formulary, benefits, Medicare Plan Finder, DCE (Drug Cost Estimator) as well. 
+ 
+
+KEY TECHNOLOGIES & DATA SOURCES
+Regulatory Reporting
+Product Database
+MAPS (Medicare Admin Plan System)
+Claims Systems (NICE, COSMOS, CSP Facets)
+GPS (Next Generation Policy System)
+UCEE (United Consumer Engagement Engine)
+bConnected (Lead Management)
+LEAN (Landmark Electronic Application Navigator)
+DCE (Drug Cost Estimator)
+Portals (Acquisition, Member, Distribution)
+RxClaim
+CMS Medicare Plan Finder
+UHN (Provider & Plan Data)
+Materials
+Optum Products & Services (e.g. Clinical)
+Finance
+United Clinical Services (iCUE & CareOne)",Capability L2,421-774-0
+84,3.2.2.4.4,Manage Product Pilots - M&R,"Manage any new products that have been introduced into the newest plan year. This includes the following reporting & assessment activities:
+
+Marketplace monitoring
+Enrollment reporting
+Product performance assessment 
+
+This also includes management of Product sponsored clinical innovations aimed at:
+
+Leverage wearable tech to improve M&R ability to monitor & improve members' health 
+Reduce readmissions by proactively identifying issues 
+Create coaching opportunities to guide members to better health Better manage diabetes through improved glucose monitoring
+Improve drug adherence through better medication management
+
+
+KEY TECHNOLOGIES & DATA SOURCES
+Regulatory Reporting
+Product Database
+MAPS (Medicare Admin Plan System)
+Claims Systems (NICE, COSMOS, CSP Facets)
+GPS (Next Generation Policy System)
+UCEE (United Consumer Engagement Engine)
+bConnected (Lead Management)
+LEAN (Landmark Electronic Application Navigator)
+DCE (Drug Cost Estimator)
+Portals (Acquisition, Member, Distribution)
+RxClaim
+CMS Medicare Plan Finder
+UHN (Provider & Plan Data)
+Materials
+Optum Products & Services (e.g. Clinical)
+Finance
+United Clinical Services (iCUE & CareOne)",Capability L2,421-784-0
+85,3.2.2.4.4.1,Evaluate Product Pilots - M&R,,Capability L3,421-6345-0
+86,3.2.2.4.4.2,Determine Product Performance - M&R,,Capability L3,421-6346-0
+87,3.2.2.5,Product Oversight & Monitoring - M&R,,Capability L1,421-6269-0
+88,3.2.2.5.1,Maximize Relationships & Manage Contracts - M&R,,Capability L2,421-6270-0
+89,3.2.2.5.2,Monitor Product Performance - M&R,,Capability L2,421-6271-0
+90,3.2.3,Marketing- M&R,"The Demand Management Domain encompasses the marketing, sales, and distribution capabilities.",Domain L0,421-681-0
+91,3.2.3.1,Set Marketing Strategy - M&R,"This capability focuses on setting sales and marketing goals to achieve member growth and retention, lowering cost and optimizing the return on member acquisition investment and increasing point of sale effectiveness by improving integration of products, channels and technologies.",Capability L1,421-698-0
+92,3.2.3.1.1,Gather Consumer Insights & Establish Segmentation - M&R,"Market Analysis, Staffing, Goal Alignment, Market Engagement
+There are four main components that define Go to Market Planning; 
+1) Market Analysis: Competitive analysis done from multiple sources and at different levels depending on the market.  In addition, market penetration analysis may be completed to understand potential market impacts.
+2) Goal Alignment: Financial goals drive the initial goal process, market leaders use market analysis to validate goal feasibility and determine strategy.
+3) Staffing: Different staffing mixes are needed to support goal projections.
+4) Market Engagement: Defines the retail, community meetings, and other venues for consumer touch points.  This is part of the go to market plan to obtain sales goals.
+Defining Consumer Sales Strategy & Targets.
+CMS dictates the regulations and our Product team tells Medicare & Retirement the Healthcare Reform updates & Medicare reimbursement rates.
+Setting staffing targets & sales goals by product, geography, and channel.
+ Partner with Product leadership to determine appropriate ‘At Risk’ strategy to proactively retain key marketing segments during OEP.",Capability L2,421-785-0
+93,3.2.3.1.1.1,Set Goals - M&R,,Capability L3,421-6312-0
+94,3.2.3.1.1.2,Go to Market Planning - M&R,,Capability L3,421-6313-0
+95,3.2.3.1.1.3,Partner with Product Leadership - M&R,,Capability L3,421-6314-0
+96,3.2.3.1.2,Define Consumer Marketing Strategy - M&R,"Analyze Consumer trends and best practices, prior year results and create Consumer journeys.
+
+Consumer Engagement Strategy: 
+
+Channel Engagement Strategy:  The Channel strategy needs to provide personalized tools and procedures to deliver targeted results leveraging standardized tools which can be configurable for each channel.
+
+Market Channel Strategy: Go to Market planning establishes goals and needs for each channel (i.e. telesales, FMO, ICA, ISR) to meet the overall goals.  The process must be flexible to meet the ever changing market dynamics.",Capability L2,421-791-0
+97,3.2.3.1.2.1,Consumer Engagement Strategy - M&R,,Capability L3,421-2866-0
+98,3.2.3.1.2.2,Channel Engagement - M&R,,Capability L3,421-2867-0
+99,3.2.3.1.2.3,Market Channel Strategy - M&R,,Capability L3,421-2868-0
+100,3.2.3.1.3,Establish Channel Strategy & Value Proposition  - M&R,"Conduct consumer market analysis to determine product & material usability, review Voice of the Customer, and analyze competitive landscape.  
+
+.The campaign is generated taking into account factors such as revenue targets and outlined goals.",Capability L2,421-792-0
+101,3.2.3.1.3.1,Analyze Prior Year Campaign Results - M&R,,Capability L3,421-2869-0
+102,3.2.3.1.3.2,Analyze Competitive Landscape - M&R,,Capability L3,421-2870-0
+103,3.2.3.1.3.3,Build Campaigns  - M&R,,Capability L3,421-2871-0
+104,3.2.3.2,Continuously Engage Consumer - M&R,Executes consumer engagement initiatives across all channels to drive consistency and value for all consumer segments,Capability L1,421-699-0
+105,3.2.3.2.1,Gather Voices of the Consumer - M&R,Create/update messaging and branding guidelines based on new product features/benefits. Follow established campaign development process flows to ensure accuracy and efficiency.  Share marketing campaign forecasts with workforce management to staff Customer Service and Telesales.  Communicate campaign launch details to key cross functional partners to optimize the end to end customer experience.,Capability L2,421-793-0
+106,3.2.3.2.1.1,Create Touchpoints - M&R,,Capability L3,421-6352-0
+107,3.2.3.2.1.2,Capture Feedback - M&R,,Capability L3,421-6353-0
+108,3.2.3.2.2,Determine Next Best Action - M&R,"Managing campaigns including monitoring the effectiveness and recording metrics to be analyzed upon campaign completion. Once the campaign is complete, results are analyzed to determine if the desired outcomes were achieved. Based on the outcome of analysis, an action plan is created to modify upcoming efforts, Customer Service, telesales scripting and/or call handling.",Capability L2,421-794-0
+109,3.2.3.2.2.2,Optimize Interaction Time - M&R,,Capability L3,421-2862-0
+110,3.2.3.2.2.3,Provide Recommendations - M&R,,Capability L3,421-2863-0
+111,3.2.3.2.3,Deploy Offers - M&R,,Capability L2,421-6275-0
+112,3.2.3.2.4,Deliver Campaigns - M&R,Create/update messaging and branding guidelines based on new product features/benefits. Follow established campaign development process flows to ensure accuracy and efficiency.  Share marketing campaign forecasts with workforce management to staff Customer Service and Telesales.  Communicate campaign launch details to key cross functional partners to optimize the end to end customer experience.,Capability L2,421-6276-0
+113,3.2.3.2.4.1,Create Execution - M&R,,Capability L3,421-6354-0
+114,3.2.3.2.4.2,Media Execution - M&R,,Capability L3,421-6355-0
+115,3.2.3.2.4.3,Operationalize Campaigns - M&R,,Capability L3,421-6356-0
+116,3.2.3.2.5,Manage Content - M&R,,Capability L2,421-6277-0
+117,3.2.3.2.5.1,Content Creation & Workflow - M&R,,Capability L3,421-6357-0
+118,3.2.3.2.5.2,Content Promotion - M&R,,Capability L3,421-6358-0
+119,3.2.3.2.6,"Manage Preferences, Experience, & Design - M&R",,Capability L2,421-6278-0
+120,3.2.3.2.6.1,Manage Preferences - M&R,,Capability L3,421-6359-0
+121,3.2.3.2.6.2,Manage Experience - M&R,,Capability L3,421-6360-0
+122,3.2.3.2.6.3,Manage Design- M&R,,Capability L3,421-6361-0
+123,3.2.3.3,Measure & Optimize - M&R,"Optimizes business decisions and value through the intelligent use of consumer analytics, modeling, and reporting",Capability L1,421-700-0
+124,3.2.3.3.1,Measure Life Time Value of Consumer - M&R,"Determine how much we are willing to spend on a prospect to acquire them based on how much we expect to generate from that prospect. Determine mail file depth and prospect next best action on how projected LTV (inclusive of Projected TCOA) 
+Every member will fall into LTV deciles in addition to propensity to respond deciles 
+Direct phone callers to right telesales agent given projected LTV 
+Determine NBA for each member based on the expected change to LTV of each potential engagement 
+Sales commission and incentives programs aligned more closely with LTV 
+How many $ and what processes to use in lead nurture efforts based on PLTV 
+What channels drive what project LTV and therefore what investment should we put into that channel – e.g. does Digital drive lower medical, better risk, higher LTV?
+Actual value at a member level of each clinical  program, chronic care program etc. – what is its true yield 
+Identify best retention campaigns based on expected LTV
+Determine if best product for particular prospect based on LTV  
+Identify correlation between NPS and LTV",Capability L2,421-795-0
+125,3.2.3.3.1.1,Capture Consumer ROI - M&R,,Capability L3,421-2827-0
+126,3.2.3.3.1.2,Optimize Consumer Value  - M&R,,Capability L3,421-2828-0
+127,3.2.3.3.2,Deliver Cost Effective Channel Optimization - M&R,"Ability to develop the curriculum that will be given to agents which is typically product based and state specific. Also provides the capability to deliver the training curriculum which is  typically in an online self service format.  Upon completion of the training agents need to be certified to sell the products. Certification is annual, agents must do this every year, of testing on pre-requisites such as Medicare Basics and Product specific. Certification is defined by CMS. The actual length number of modules is determined by Ovations senior leadership. There is at least one certification course for every product we offer.",Capability L2,421-796-0
+128,3.2.3.3.2.2,Track Multi Touch Attribution - M&R,,Capability L3,421-2830-0
+129,3.2.3.3.2.3,Exploit Channel Specific Capabilities - M&R,,Capability L3,421-2831-0
+130,3.2.3.3.3,Measure Total Cost of Acquisition - M&R,"Through the various channels and primary points of sale, compliance needs to be monitored to ensure we are meeting regulatory requirements. In addition, campaign efficiency must be managed which includes the training, set-up, the event itself.",Capability L2,421-802-0
+131,3.2.3.3.3.1,Optimize Acquisition Spending - M&R,,Capability L3,421-2832-0
+132,3.2.3.3.3.2,Optimize Conversion Rate - M&R,,Capability L3,421-2833-0
+133,3.2.3.3.4,Perform Propensity Analysis - M&R,"Support services includes things like ordering materials, application statuses, look up benefit details for a member, etc. Also includes formal agent communications via various channels including the Producer Helpdesk (PHD), United Distribution Portal (UDP), e-mail, etc. Lifecycle support includes supporting an agent with contract & appointment renewals and hierarchy support. Terminations come from DAC (Disciplinary Action Committee), annual maintenance purging for non-production.",Capability L2,421-803-0
+134,3.2.3.3.4.3,Track Return on Modeling Investment- M&R,,Capability L3,421-2838-0
+135,3.2.3.3.4.4,Optimize Campaigns & Offers - M&R,,Capability L3,421-2839-0
+136,3.2.3.3.5,Manage Engagement Cost - M&R,"Managing campaigns including monitoring the effectiveness and recording metrics to be analyzed upon campaign completion. Once the campaign is complete, results are analyzed to determine if the desired outcomes were achieved. Based on the outcome of analysis, an action plan is created to modify upcoming efforts, Customer Service, telesales scripting and/or call handling.
+
+KEY POINTS
+Make changes to engagement strategy based on early results.
+Modify media buy based on early results.
+Process Post Mortems to assess how campaigns performed operationally and identify improvements for the next cycle.",Capability L2,421-804-0
+137,3.2.3.3.5.1,Prioritize Interactions - M&R,,Capability L3,421-2840-0
+138,3.2.3.3.5.2,Drive Cross Channel Collaboration - M&R,,Capability L3,421-2841-0
+139,3.2.4,Sales - M&R,,Domain L0,421-6279-0
+140,3.2.4.1,Set Sales Strategy- M&R,"4.1 Set Sales Strategy
+Set sales goals to achieve member growth and retention, leveraging both the UHC M&R agent engagement strategy as well as sales reporting and data analytics.",Capability L1,421-6280-0
+141,3.2.4.1,Manage Medical Claims - M&R,"The Process Medical Claims capability enables Medicare & Retirement to receive, adjudicate and pay claims.
+A health insurance claim is a bill for health care services that health care providers turn in to Medicare & Retirement for payment. With many plans, when a member goes to the doctor for a routine checkup and the bill is $100, they pay a co-pay or coinsurance of $25 and the doctor bills Medicare & Retirement for the remaining $75.
+The Center for Medicare & Medicaid Services (CMS) regulates what we can pay for a claim based on their annual fee schedule. Medicare & Retirement supports several models of service, the major models are Fee for Service & Capitated",Capability L1,421-702-0
+142,3.2.4.1.1,Benefit Loading - M&R,"This capability begins once the benefit plan information is received from product.  It includes steps necessary to configure and load the benefit rules into the eligibility and claims systems.  First the virtual template is configured which includes combining PBPs (Plan Benefit Package), reviewing additional data and configuring the rules for the benefit setup.  Service codes must be loaded into both COSMOS and NICE.  For each new benefit, services codes need to be setup and coded within COSMOS.  This is a manual process requiring user interpretation.  This is where decisions are made to determine what is loaded, assigning rules in the template.  
+
+
+When a claim comes into the claims system, a benefit package must exist. This capability supports the auto adjudication of the claims. If the benefit package is incorrect ; either  the claim will require manual intervention or result in possibly decisioning or paying the claim incorrectly.
+  
+Key Points
+180 services codes are mapped to the PBP categories. 
+If there is an error on the source document, it can often be attributed to an interpretation issue with the footnotes. The co-insurance, co-pays, deductibles, etc. (grid date ) is generally correct.  
+The unique identifier is at the group level.",Capability L2,421-704-0
+143,3.2.4.1.1,Complete Go To Market Planning - M&R,,Capability L2,421-6284-0
+144,3.2.4.1.1.1,Retrieve Benefit Plan Data - M&R,The plan information is received from product,Capability L3,421-816-0
+145,3.2.4.1.1.2,Configure Benefit Rules & Load - M&R,Configure a virtual template. Combining what they can to match PBPs and,Capability L3,421-817-0
+146,3.2.4.1.1.3,Manage Quality - M&R,"The benefit tables drive downstream processes. Includes Perform Process Output Quality Assurance, validating benefits, acting as a source of truth, and correcting benefits",Capability L3,421-818-0
+147,3.2.4.1.2,Set Sales Goals- M&R,,Capability L2,421-6285-0
+148,3.2.4.1.2,Receive Claims - M&R,"Medical claims are received through a centralized regional mail office, portals and transmissions. They are reviewed for good order and assigned to claims platforms via United Front End (UFE) based on eligibility rules.",Capability L2,421-805-0
+149,3.2.4.1.2.1,Receive Paper Claim - M&R,,Capability L3,421-4538-0
+150,3.2.4.1.2.2,Receive Electronic Claim - M&R,,Capability L3,421-4539-0
+151,3.2.4.1.2.3,Get in Good Order & Validate Eligibility - M&R,,Capability L3,421-4540-0
+152,3.2.4.1.2.4,Route to Claim Platform - M&R,,Capability L3,421-4541-0
+153,3.2.4.1.2.5,Return Ineligible Claim - M&R,,Capability L3,421-4542-0
+154,3.2.4.1.3,Pre-Adjudication Editing - M&R,Validation of provider & member information to ensure the claim data is valid. If claim is incomplete or missing information it is returned to the provider,Capability L2,421-806-0
+155,3.2.4.1.3,Develop Engagement Strategy & Value Proposition - M&R,,Capability L2,421-6286-0
+156,3.2.4.1.3.1,"Flag for Potential Waste, Fraud & Abuse - M&R",,Capability L3,421-4543-0
+157,3.2.4.1.3.2,Verify Member & Provider Data - M&R,,Capability L3,421-4544-0
+158,3.2.4.1.3.3,Review Claim for Errors & Resolve Edits - M&R,,Capability L3,421-4545-0
+159,3.2.4.1.3.4,Return Unresolved/ Incomplete Claims - M&R,,Capability L3,421-4546-0
+160,3.2.4.1.3.5,Route Claim for Adjudication - M&R,,Capability L3,421-4547-0
+161,3.2.4.1.4,Maximize Reporting & Analytics,,Capability L2,421-6287-0
+162,3.2.4.1.4,Adjudicate Claims - M&R,"Edits are performed to determine if the claim will auto adjudicate or require manual processing. Ensuring pre-authorization appropriateness, COB impacts, dates of service validation and Pricing is applied.",Capability L2,421-807-0
+163,3.2.4.1.4.1,Determine Manual or Auto Adjudicate - M&R,,Capability L3,421-4548-0
+164,3.2.4.1.4.2,Verify Pre- Authorization and COB - M&R,,Capability L3,421-4549-0
+165,3.2.4.1.4.3,Verify Data of Service & Services Rendered - M&R,,Capability L3,421-4550-0
+166,3.2.4.1.4.4,Determine Benefits - M&R,,Capability L3,421-4551-0
+167,3.2.4.1.4.5,Apply Pricing - M&R,,Capability L3,421-4552-0
+168,3.2.4.1.4.6,Determine Eligible Services by Line Item - M&R,,Capability L3,421-4553-0
+169,3.2.4.1.4.7,Finalize & Adjudicate Claim - M&R,,Capability L3,421-4554-0
+170,3.2.4.1.5,Adjustments - M&R,"A provider or member may ask to reconsider the claim payment. This requires a manual process to review and adjust the claim, if necessary.",Capability L2,421-809-0
+171,3.2.4.1.5.1,Review Claim & Request Supporting Artifacts - M&R,,Capability L3,421-4555-0
+172,3.2.4.1.5.2,Make Decision - M&R,,Capability L3,421-4556-0
+173,3.2.4.1.5.3,Notify Provider or Member of Decision - M&R,,Capability L3,421-4557-0
+174,3.2.4.1.5.4,Process Claim Adjustment - M&R,,Capability L3,421-4558-0
+175,3.2.4.2,Sales Preparation- M&R,"Define and implement updates to applications, tools, processes based largely on regulatory requirements to achieve compliance & seasonal readiness.",Capability L1,421-6281-0
+176,3.2.4.2.1,Communicate & implement Strategy - M&R,,Capability L2,421-6288-0
+177,3.2.4.2.2,"Update Sales Applications, Tools, Processes - M&R",,Capability L2,421-6289-0
+178,3.2.4.3,Engage Agents- M&R,Engage & support agents through sales operational capabilities.,Capability L1,421-6282-0
+179,3.2.4.3,Encounter Management - M&R,"This capability includes the receipt and administration of “non-payable claims” from delegated and ancilary providers, consolidation with claim data for distribution to CMS and passing to downstream processes for updating member out of pockets/other accumulators, EOB’s and other member/provider communications",Capability L1,421-2888-0
+180,3.2.4.3.1,Encounter Receipt & Administration - M&R,"Encounter Receipt & Administration capability supports Delegated Entities only.  The delegated entities (physicians, hospitals or management groups) are required to submit all encounters, claims paid by the delegated entities as defined by their provider contract.  The entities send an electronic Encounter transmission (daily, weekly, etc.) for 837I (institutional) or 837P (Professional) to UHG by means of an Electronic Data Interface (EDI) Clearinghouse.  
+The Clearinghouse acknowledges the provider transaction and validates the encounter data.  All identified errors are sent back to the delegated entity as an EDI 277 daily report for resolution.  Success files are move to the United Frontend Engine (UFE) for additional processing; balance check, duplicate file check, member pick for each encounter, determine destination (PES, NICE, COSMOS), etc.  Western Region Professional encounters are sent to the PES to generate required delegated entity reports (1050).  Western Region Institutional encounters are sent to NICE, where the CL0307 reports are generated.  All Eastern Region delegated entities are sent to COSMOS.  We are contractually obligated to send encounter information back to providers to support their reconciliation efforts.
+Once encounter processing is complete, each claims platform will automatically send a file to OptumInsight EDPS for CMS reporting.  
+KEY POINTS
+78% of the Delegated Providers submit Encounters through Transunion and 22% through OptumInsight.  
+Reimbursement Modernization initiative has started supporting delegated providers in 2014, prior to that all delegated providers were only supported on the NICE claims platform.
+Encounter information sent back to providers is in a printed report format (i.e. not electronic).  However, Reimbursement Modernization phase 2 is moving to electronic medium. 
+Eastern region Delegated Entities are processed on COSMOS, Reimbursement Modernization Program is building out delegated / capitated functionality on the COSMOS platform.  This effort is scheduled to continue over the next 3 – 5 years.  
+Currently COSMOS pre-processing queues cause issues with missing CAR/RAC codes, missing providers, causing manual processing.",Capability L2,421-2889-0
+181,3.2.4.3.1,Recruit & Onboard - M&R,,Capability L2,421-6291-0
+182,3.2.4.3.1.1,Encounter Receipt - M&R,,Capability L3,421-4574-0
+183,3.2.4.3.1.2,Encounter Editing - M&R,,Capability L3,421-4575-0
+184,3.2.4.3.1.3,Encounter Reconciliation - M&R,,Capability L3,421-4576-0
+185,3.2.4.3.2,Encounter Data Distribution - M&R,"This capability includes steps necessary to extract & configure encounter data, sending encounter data to CMS, and identifying & addressing errors.  CMS defines encounters as any service provided to a member by a provider and payment was received, this also includes Health Care Facilities & Durable Medical Equipment (DME).  Encounters include all delegated and non-delegated transactions.  Encounter data was designed to improve the risk adjustment and MA payment system, by providing complete and accurate data set to CMS.  Encounters Data sent to CMS are used in the Risk Adjustment calculations.",Capability L2,421-2890-0
+186,3.2.4.3.2,Educate Agents - M&R,,Capability L2,421-6292-0
+187,3.2.4.3.2.1,Encounter Selection & Extract - M&R,,Capability L3,421-4577-0
+188,3.2.4.3.2.2,Encounter Reporting - M&R,,Capability L3,421-4578-0
+189,3.2.4.3.2.3,Encounter Submissions to CMS - M&R,,Capability L3,421-4579-0
+190,3.2.4.3.3,Monitor Sales Activities- M&R,,Capability L2,421-6293-0
+191,3.2.4.3.4,Support Agents - M&R,,Capability L2,421-6294-0
+192,3.2.4.3.5,Manage Fees & Commissions - M&R,,Capability L2,421-6295-0
+193,3.2.4.4,Sell to Consumers - M&R,"Maximize use of consumer data to optimize agents’ ability to enroll prospects, and guide members to best possible plan",Capability L1,421-6283-0
+194,3.2.4.4,Reimbursement & Notification - M&R,"Provide claim and encounter data to support provider payments as contracted by UHN, and member/provider communications.  Contracting methodologies range along a risk spectrum from Fee for Service to Global Capitation.  Member/Provider communications include EOB’s, PRA’s, IDN’s, etc.",Capability L1,421-2891-0
+195,3.2.4.4.1,Benefit Accumulation - M&R,"Benefit Accumulation is comprised of four main areas; Member Out of Pocket, and Benefit Accumulators.   These calculations are input for claims adjudication to determine responsibility and price for claim.",Capability L2,421-2892-0
+196,3.2.4.4.1,Manage Leads & Prospects - M&R,,Capability L2,421-6296-0
+197,3.2.4.4.1.2,Maximum Out of Pocket - M&R,,Capability L3,421-4581-0
+198,3.2.4.4.1.3,Member Responsibility - M&R,,Capability L3,421-4582-0
+199,3.2.4.4.1.4,Benefit Accumulator - M&R,,Capability L3,421-4583-0
+200,3.2.4.4.2,Notifications - M&R,"Providers and Members are sent notification of claim processing in the form of Provider Remittance Advise and Explanation of Benefits, respectfully. Provider Remittance Advise is compared to the Explanation of Benefits prior to sending notifications.",Capability L2,421-2893-0
+201,3.2.4.4.2,Educate & Guide - M&R,,Capability L2,421-6297-0
+202,3.2.4.4.2.1,TBD 1,,Capability L3,421-6362-0
+203,3.2.4.4.2.2,TBD 2,,Capability L3,421-6363-0
+204,3.2.4.4.2.3,TBD 3,,Capability L3,421-6364-0
+205,3.2.4.4.3,Sell to Individuals - M&R,,Capability L2,421-6298-0
+206,3.2.4.4.4,Sell to Employers & Plan Sponsors - M&R,,Capability L2,421-6299-0
+207,3.2.4.5,"Fraud, Waste & Abuse - M&R","The Fraud, Waste and Abuse Domain is responsible for the Prevention of Fraud, Reduction of Waste and the Detection of Abuse.",Capability L1,421-705-0
+208,3.2.4.5.1,Detection - M&R,"This capability encompasses the various manual and automated detection methods used to identify waste, abuse and fraud. It also includes the continuous improvements for current analytics and research and development of new analytics for use in detection.",Capability L2,421-819-0
+209,3.2.4.5.1.1,Manual Detection - M&R,,Capability L3,421-4584-0
+210,3.2.4.5.1.2,Automated Detection - M&R,,Capability L3,421-4585-0
+211,3.2.4.5.1.3,Continuous Analytics - M&R,,Capability L3,421-4586-0
+212,3.2.4.5.1.4,Identify New R&D Analytics - M&R,,Capability L3,421-4587-0
+213,3.2.4.5.2,Prospective Investigations - M&R,,Capability L2,421-820-0
+214,3.2.4.5.2.1,Investigate Suspect Claims - M&R,,Capability L3,421-4588-0
+215,3.2.4.5.2.2,Clinical Review - M&R,,Capability L3,421-4589-0
+216,3.2.4.5.2.3,Provide Recommendation & Disposition - M&R,,Capability L3,421-4590-0
+217,3.2.4.5.3,Retrospective Investigations - M&R,,Capability L2,421-821-0
+218,3.2.4.5.3.1,Sampling - M&R,,Capability L3,421-4591-0
+219,3.2.4.5.3.2,Clinical Review - M&R,,Capability L3,421-4592-0
+220,3.2.4.5.3.3,Overpayment & Recovery Determination - M&R,,Capability L3,421-4593-0
+221,3.2.4.5.4,Recovery & Regulatory Collaboration - M&R,This capability includes how money is recovered for waste and abuse cases and the legal or regulatory collaboration activities if fraud is suspected.,Capability L2,421-822-0
+222,3.2.4.5.4.1,Recovery Negotiation - M&R,,Capability L3,421-4594-0
+223,3.2.4.5.4.2,Collection & Cash Management - M&R,,Capability L3,421-4595-0
+224,3.2.4.5.4.3,Financial Transactions - M&R,,Capability L3,421-4596-0
+225,3.2.4.5.5,Vendor Management - M&R,,Capability L2,421-823-0
+226,3.2.4.5.5.1,Monitor Business Performance - M&R,,Capability L3,421-4597-0
+227,3.2.4.5.5.2,Monitor Compliance Performance - M&R,,Capability L3,421-4598-0
+228,3.2.4.5.5.3,Monitor Operational Performance - M&R,,Capability L3,421-4599-0
+229,3.2.4.5.5.4,Review and Enhance Performance - M&R,,Capability L3,421-4600-0
+230,3.2.5,Member Administration - M&R,,Domain L0,421-683-0
+231,3.2.5.1,Enrollment - M&R,"Enrolling in one of our health plans means that a member must meet both UHC and CMS requirements. If a member’s enrollment application is completely filled out, then it is submitted to CMS for validation. Only after the CMS verification is the application approved. Members only see the resulting welcome kit, unless UHC has had to re-engage with the member during the process to find missing or clarify existing information. A member who completes an accurate application should be able to assume that all is well and they do not need to provide any additional effort to complete their enrollment.",Capability L1,421-706-0
+232,3.2.5.1.2,Process Applications - M&R,"This business capability is where member enrollment information is received, sent to SMS to pre-validate the correctness of information, then sent to CMS where eligibility for Medicare is either approved or denied. In some instances Additionally, a member reconciliation is performed within this capability using TRR reports from CMS. In some instances, application are missing core data, which means the application is pended and a request for information is sent to the member.",Capability L2,421-830-0
+233,3.2.5.1.2.1,Validate with SMS - M&R,,Capability L3,421-4603-0
+234,3.2.5.1.2.2,Validate with CMS - M&R,,Capability L3,421-4604-0
+235,3.2.5.1.2.3,Reconcile with CMS - M&R,,Capability L3,421-4605-0
+236,3.2.5.1.3,Onboard Members - M&R,"This capability is where members are assigned to a Medicare plan (MA, Part D, etc), Creation of an insured plan based on the application. Notifications are sent to fulfillment in order to produce the required member materials Welcome Kits, ID Cards, etc) and finally, their information is sent along to down stream capabilities (Claims, Billing,",Capability L2,421-831-0
+237,3.2.5.1.3.1,Assign Member to Plan - M&R,,Capability L3,421-4606-0
+238,3.2.5.1.3.2,Fulfill Enrollment Materials - M&R,,Capability L3,421-4607-0
+239,3.2.5.1.3.3,Set up for Claim Submission - M&R,,Capability L3,421-4608-0
+240,3.2.5.1.5,Post Enrollment Maintenance - M&R,,Capability L2,421-825-0
+241,3.2.5.1.5.1,Maintain Member Records - M&R,,Capability L3,421-4611-0
+242,3.2.5.1.5.2,Reinstatements & Re-enrollments - M&R,,Capability L3,421-4612-0
+243,3.2.5.1.5.3,Cancellation & Withdrawal - M&R,,Capability L3,421-4613-0
+244,3.2.5.3,Billing and Collections - M&R,"Billing needs to be transparent. Members with a premium will receive a regular invoice at the beginning of the plan year and then as often as their Method of Payment dictates (e.g. members paying via recurring EFT will not receive a monthly invoice). Employer Groups with a premium will receive a regular monthly invoice. Members should assume that their premium billed is accurate and reflects the correct base premium, any additional rider benefits, late enrollment penalties, low income subsidies and retroactive adjustments from CMS. UHC will always notify a member when their premium changes during a year, with the exact reasons and amounts.
+Collections will be transparent and helpful discussing the status of an account with our members. We will address any questions they may have regarding the billing or payment activity of the plan. Members should assume that we will advise the status of the account and provide options in an effort to assist in bringing their balances current.",Capability L1,421-708-0
+245,3.2.5.3.1,Communicate Balance Due - M&R,"M&R membership does not currently get an invoice since in most cases CMS pays for their services.  In some cases members have and advantage plan or additional services that requires them to pay a monthly fee (this type of relationship is expected to grow rapidly).  This fee is typically mailed in from the members coupon book or preferably via ACH transfer from the members account.  This capability supports the process for triggering invoices based on predefined parameters in the customers plan (monthly, quarterly, semi-annually or yearly) and applying the contractual or other credits and discounts. Amount owed is broken down into elements owed by the customer and the one owed by the SSA (Social Security Administration).  Additional rules around LEP (Late Enrollment Penalty) and LIS (Low Income Subsidy) can add to complexity.",Capability L2,421-836-0
+246,3.2.5.3.1.1,Generate and Send Invoice - M&R,,Capability L3,421-4623-0
+247,3.2.5.3.1.2,Delinquency Notifications - M&R,,Capability L3,421-4624-0
+248,3.2.5.3.2,Collect Money - M&R,"This capability supports the collection of premium payments from members through various channels - Coupon book (most common), Electronic Funds Transfer (EFT), Social Security Administration (SSA) withdrawals drafts or Credit Card Payments for delinquent payments. Monies are typically sent to a lockbock at a bank, then processed by",Capability L2,421-837-0
+249,3.2.5.3.2.1,Receive & Process Money - M&R,,Capability L3,421-4625-0
+250,3.2.5.3.2.2,Apply Money - M&R,,Capability L3,421-4626-0
+251,3.2.5.3.2.3,Manage Delinquency - M&R,,Capability L3,421-4627-0
+252,3.2.5.3.3,Billing Account Maintenance - M&R,"Billing Account Maintenance includes all changes to member data that directly impacts billing and collections.  This capability supports general account maintenance for members, such as changing a payment type, terminations (death, non-payment), status changes, etc. It does not include any processing that may be required once the data is updated (e.g., write-off due to death  termination).  It also supports the ability to determine if the member has a credit balance (overage of monies) and the ability to generate a refund to the member.",Capability L2,421-2873-0
+253,3.2.5.3.3.1,MOP Maintenance - M&R,,Capability L3,421-4628-0
+254,3.2.5.3.3.2,Payment Research and Maintenance - M&R,,Capability L3,421-4629-0
+255,3.2.5.3.3.3,Premium Research and Maintenance - M&R,,Capability L3,421-4630-0
+256,3.2.5.3.3.4,Unapplied Funds - M&R,,Capability L3,421-4631-0
+257,3.2.5.3.3.5,Returned Payments - M&R,,Capability L3,421-4632-0
+258,3.2.5.3.3.6,Process Refunds - M&R,,Capability L3,421-4633-0
+259,3.2.5.3.4,Reconcile Money - M&R,"Supports the ability to determine if the member has a credit balance (overage of monies) and also the ability to generate a refund to the member.  It also ensure payments received are applied correctly and to the appropriate accounts to maintain accurate information for customer accounts. Customers who have defaulted for an extended period of time will be terminated and benefits withdrawn. This capability also supports general account maintenance for members, such as changing a payment type, determining where a lost payment is and reconciling unpaid items due to NSF or protested payments by a member.",Capability L2,421-840-0
+260,3.2.5.3.4.1,Money Reconciliation - M&R,,Capability L3,421-4634-0
+261,3.2.6,Benefit Administration - M&R,,Domain L0,421-682-0
+262,3.2.6.1,Member Service Experience - M&R,"The Member Service Experience capability of UnitedHealthcare Medicare and Retirement is responisble for:
+-All incoming and outgoing member contact
+-Forecasting",Capability L1,421-709-0
+263,3.2.6.1.1,Manage Channels - M&R,This business capability includes  the functions  necessary to operationalize high-level member strategies.,Capability L2,421-826-0
+264,3.2.6.1.1.1,Channel Strategy - M&R,,Capability L3,421-4635-0
+265,3.2.6.1.1.2,Scheduling / Real Time Adherence - M&R,,Capability L3,421-4636-0
+266,3.2.6.1.1.3,Manager Service Vendors - M&R,,Capability L3,421-4637-0
+267,3.2.6.1.1.4,Forecasting and Planning - M&R,,Capability L3,421-4638-0
+268,3.2.6.1.1.5,Manage Sites - M&R,,Capability L3,421-4639-0
+269,3.2.6.1.2,Engage Employees- M&R,This business capability includes  the functions  necessary to operationalize high-level member strategies.,Capability L2,421-827-0
+270,3.2.6.1.2.1,Workflow Management - M&R,,Capability L3,421-4640-0
+271,3.2.6.1.2.2,Enable Customer Care Professionals - M&R,,Capability L3,421-4641-0
+272,3.2.6.1.2.3,Set Up Delivery - M&R,,Capability L3,421-4642-0
+273,3.2.6.1.2.4,Employee Management - M&R,,Capability L3,421-4643-0
+274,3.2.6.1.4,Deliver - M&R,"This business capability focuses on researching and resolving inquiries and issues
+During Assess Inquiry and Identify Needs, the specifics related to the inquiry or issue are reviewed and actions specific to the case are identified
+In research customer inquiry, data appropriate to the specific inquiry is gathered and analyzed
+Contact documentation focuses on  documenting interactions with the member and spans the breadth of the Delivery capability (Connect, Help, Solve)
+As part of the contact with the members, the CCP educates the members  on how to leverage benefits and services.  Currently the focus is on plan and service basics
+Today members seek help in understanding the healthcare experience.  While focused on the basics today, this is an area of opportunity
+Outbound communication to members typically occurs today when an error is discovered or call analytics point to a feature of our benefits and services that may be  unclear.  Today’s communication tends to be in response to an issue",Capability L2,421-829-0
+275,3.2.6.1.4.1,Connect,,Capability L3,421-6306-0
+276,3.2.6.1.4.2,Solve,,Capability L3,421-6307-0
+277,3.2.6.1.4.3,Close,,Capability L3,421-6308-0
+278,3.2.6.1.7,Measure & Optimize - M&R,"This business capability focuses on understanding the Member Service Experience in context with customer feedback, best practice trends and systematic issues and developing and defining systematic solutions
+Analyze consumer trends and best practices focuses on looking across industries to understand what are the basics of customer experience, what is a differentiator and what the implications are to the service we provide
+Collect voice of the customer is the capability to gather and analyze Voice of the Customer data.  The focus is on understanding the experience from the perspective of our member, delegates and/or prospective members
+Our capability to understand Root Cause Systematic Issues today is relatively immature and enabling this capability more robustly in the future will be key to delivering a better experience to our members 
+Identify Solutions and Recommendations is the “ideation” of solutions that address systematic issues such as eliminating unnecessary calls, etc.
+Close the loop to proactively resolve service issues reflects the need to address systemic root-cause issues",Capability L2,421-788-0
+279,3.2.6.1.7.1,Analyze Consumer Trends and Best Practices - M&R,,Capability L3,421-4662-0
+280,3.2.6.1.7.2,Root Cause Systematic Issues - M&R,,Capability L3,421-4663-0
+281,3.2.6.1.7.3,Close Loop to Proactively Resolve Service Issues- M&R,,Capability L3,421-4664-0
+282,3.2.6.1.7.4,Collect Voice of the Customer - M&R,,Capability L3,421-4665-0
+283,3.2.6.1.7.5,Identify Solutions and Recommendations - M&R,,Capability L3,421-4666-0
+284,3.2.6.2,Digital Experience - M&R,"The Appeals, Grievances and Complaints domain of UnitedHealthcare Medicare and Retirement is responsible for:
+- Adjudicating a Member’s (or their Representative’s) appeal of an adverse decision made on a insurance claim. 
+- Adjudicating a Provider’s request to reconsider a denial of an insurance claim or part of a claim.
+- Investigate and respond to Grievances (complaints) of Members or their representatives.",Capability L1,421-710-0
+285,3.2.6.2.1,Self Service - M&R,"This business capability embodies receiving appeals, grievances and complaints correspondence from internal and external sources and routing to the appropriate organizational role for a decision (Clinical, Non-Clinical, Medical Director) dependent upon case type.",Capability L2,421-789-0
+286,3.2.6.2.1.1,Inbound Content - M&R,"
+Inbound Content
+Content received, sorted, routed",Capability L3,421-3800-0
+287,3.2.6.2.1.2,Initial Review - M&R,"
+Initial review
+Content reviewed and categorized",Capability L3,421-4667-0
+288,3.2.6.2.1.3,Setup - M&R,"Setup
+Case parameters assigned and case entered into the appropriate tracking system",Capability L3,421-4668-0
+289,3.2.6.2.1.4,Assign Ownership - M&R,"Assign Ownership
+Ensure case is routed to the proper admin or clinician",Capability L3,421-4669-0
+290,3.2.6.2.2,Data Analytics - M&R,"This capability includes reviewing a case to a point that a decision can be made. Once the clinician or admin has come to a decision, they must ensure the proper recording and notification activity occurs.",Capability L2,421-790-0
+291,3.2.6.2.2.1,Research - M&R,"Research
+Detailed review of case information",Capability L3,421-4670-0
+292,3.2.6.2.2.2,Clinical/ Admin Review and Decision - M&R,"Clinical/Admin Review and Decision
+Make decision on case",Capability L3,421-4671-0
+293,3.2.6.2.2.3,Case Documentation - M&R,"Case Documentation
+Update proper documentation",Capability L3,421-4672-0
+294,3.2.6.2.2.4,Closure Communication - M&R,"Closure Communication
+Inform the proper parties of case decision",Capability L3,421-4673-0
+295,3.2.6.2.2.5,Rework Effectuation/ Corrective Action - M&R,"Rework Effectuation / Corrective Action
+Ensure proper rework has been completed",Capability L3,421-4674-0
+296,3.2.6.2.3,Consumer Profile- M&R,"This business capability embodies the preparation, tracking, recording and notification functionality associated with third party review.",Capability L2,421-810-0
+297,3.2.6.2.3.1,Case File Assembly - M&R,"Case File Assembly
+Assemble case package and send for review by independent entity",Capability L3,421-4675-0
+298,3.2.6.2.3.2,External Entity Review - M&R,"External Entity Review
+Engage with appropriate external entity by responding to requests and feedback. This capability includes case review and planned appeals.",Capability L3,421-4676-0
+299,3.2.6.2.3.3,Document Decision - M&R,"
+Document Decision
+Document and communicate decision that resulted from independent review",Capability L3,421-4677-0
+300,3.2.6.2.3.4,Implement Decision - M&R,"Implement Decision
+Ensure proper rework has been completed",Capability L3,421-4678-0
+301,3.2.6.3,Correspondence Management & Development - M&R,"Material Development & Fulfillment drives the capabilities that support the end-to-end distribution supply chain including content strategy and development, production of marketing, annual enrollment and operation as materials through traditional (print) and emerging channels (electronic)",Capability L1,421-711-0
+302,3.2.6.3.1,Material Strategy & Development - M&R,"Material Strategy and Development starts when the need for material is identified and ends when the Build of Materials (BOM ) and art files are delivered for electronic or print fulfillment.  Includes defining the strategy, developing content and designing materials.",Capability L2,421-839-0
+303,3.2.6.3.1.1,Define Strategy - M&R,,Capability L3,421-4686-0
+304,3.2.6.3.1.2,Develop Content - M&R,,Capability L3,421-4687-0
+305,3.2.6.3.1.3,Design Materials - M&R,,Capability L3,421-4688-0
+306,3.2.6.3.2,Material Production & Fulfillment - M&R,"Material Production and Fulfillment starts when the BOM and art file are ready for production and includes the production setup, test, implementation and inventory management",Capability L2,421-841-0
+307,3.2.6.3.2.1,Setup - M&R,,Capability L3,421-4689-0
+308,3.2.6.3.2.2,Test - M&R,,Capability L3,421-4690-0
+309,3.2.6.3.2.3,Implement - M&R,,Capability L3,421-4691-0
+310,3.2.6.3.2.4,Manage Inventory - M&R,,Capability L3,421-4692-0
+311,3.2.6.3.3,Supplier Sourcing - M&R,Sourcing focuses on the end-to-end management of internal and external vendors involved in material development & fulfillment,Capability L2,421-842-0
+312,3.2.6.3.3.1,Identify Needs and Fulfillment BRD - M&R,,Capability L3,421-4693-0
+313,3.2.6.3.3.2,Sourcing and Procedurement- M&R,,Capability L3,421-4694-0
+314,3.2.6.3.3.3,Vendor Oversight and Management - M&R,,Capability L3,421-4695-0
+315,3.2.6.3.4,Performance Management/ Quality - M&R,Quality focuses on the capabilities needed to manage and measure end-to-end process performance,Capability L2,421-843-0
+316,3.2.6.3.4.1,Process Management - M&R,,Capability L3,421-4696-0
+317,3.2.6.3.4.2,Manage Quality - M&R,,Capability L3,421-4697-0
+318,3.2.6.6,"Appeals, Grievances, & Complaints",,Capability L1,421-6300-0
+319,3.2.6.6.1,Case Creation - M&R,,Capability L2,421-6301-0
+320,3.2.6.6.2,Case Review & Restoration- M&R,,Capability L2,421-6302-0
+321,3.2.6.6.3,Third Party Review - M&R,,Capability L2,421-6303-0
+322,3.2.6.6.4,Defect Reduction - M&R,,Capability L2,421-6304-0
+323,3.2.6.6.5,Performance Management - M&R,,Capability L2,421-6305-0
+324,3.2.7,Consumer Engagement- M&R,"This domain encompasses three primary capabilities (Member Service, A&G, and Print and Fulfillment) focused on delivering services and information that positively impact the Member Experience while driving improved star ratings and 100% compliance.  
+This domain also maintains projects associated with the Member portal environment.
+Constituent Services capabilities frequently represent the direct interface with our Members post-enrollment.  Therefore, our work here often determines how our Members perceive our plans, especially when the Member has a complaint.
+To deliver effectively for M&R, we need to align shared services resources to our Members’ specific needs while actively participating in enterprise improvement initiatives such as Advocate 4 Me, Fit for the Future, Polaris, etc.",Domain L0,421-684-0
+325,3.2.7.1,Clinical Standards Development - M&R,"The development, management and implementation of medical protocols that drive clinical decisions and actions, leverage medical input from internal and external clinical organizations, and are incorporated in the delivery of clinical programs and processes to help our members live healthier lives.",Capability L1,421-712-0
+326,3.2.7.1.1,Medical Policy Definition - M&R,"Develop, maintain and issue medical policies to define the optimal course of treatment which adhere to regulatory guidelines and are supported by evidence based medicine.",Capability L2,421-5349-0
+327,3.2.7.1.2,Models of Care Definition - M&R,"Develop and maintain models of care that describe the expectations for member engagement.  This defines the entire spectrum of how UHG is expected to interact with a member.  Models of care can be tailored to specific population needs based on population demographics, diagnosis, and product.",Capability L2,421-5351-0
+328,3.2.7.2,Utilization Management - M&R,"Action taken to ensure that members receive care that provides the best possible outcome.  Monitoring care, working with providers and intervening as necessary to ensure that members receive the right care in the right setting for their particular situation.  Reviewing and resolving appeals when there are differences to the recommended course of treatment.",Capability L1,421-5352-0
+329,3.2.7.2.1,Health Services Intake Management - M&R,"The capability, by which communication from our providers regarding care or services for our covered members is documented, processed and when necessary routed for further management and/or coverage determination. Many times this triggers the initial point of engagement for a member within the UHG's Utilization management lifecycle for the purpose of awareness, initiation of service, directing to appropriate parties and the ability to act.",Capability L2,421-5359-0
+330,3.2.7.2.2,Coverage Determination - M&R,"A capability which uses relevant administrative and clinical information for the purpose of determining whether to approve benefit coverage for services being requested. The value is to influence care before any services are rendered, but a determination can be made prior, during, or after services.",Capability L2,421-5360-0
+331,3.2.7.2.3,Inpatient Care Management - M&R,UHG engagement that promotes efficient execution of the physician’s treatment plan to ensure optimal and timely treatment throughout the course of a hospital stay.,Capability L2,421-5361-0
+332,3.2.7.2.4,Policy and Decision Enforcement - M&R,Ensures that payments for services rendered are consistent with medical standards as well as pre-service and concurrent review decisions.,Capability L2,421-5362-0
+333,3.2.7.2.5,Clinical Appeals & Grievances - M&R,Respond to physician's appeals and/or grievances around medical decisions rendered to adjust treatment as needed.,Capability L2,421-5363-0
+334,3.2.7.3,Health & Care Management - M&R,Identifying and solving for the health and productivity/quality of life outcomes of individuals. This is across the health care continuum; including prevention and wellness to advanced illness/end of life.,Capability L1,421-5353-0
+335,3.2.7.3.1,Care Coordination - M&R,The deliberate organization of patient care activities among two or more participants (including the patient and/or family) to facilitate the appropriate delivery of health care services.,Capability L2,421-5366-0
+336,3.2.7.3.2,Case Management - M&R,Meeting a consumer’s health needs through communication and available resources to promote quality cost-effective outcomes related to a specific health event.,Capability L2,421-5367-0
+337,3.2.7.3.3,Health & Wellness Management - M&R,"Council and advisement regarding maintenance of healthy status in order to empower [Consumer]s to identify, own and make more-informed health care decisions and change behavior to have a more healthier life.",Capability L2,421-5368-0
+338,3.2.7.3.4,Consumer Care Plans - M&R,"An integrated care plan used by stakeholders to define multiple actions for the various conditions or issues identified for the target of the plan. This includes the structure through which goals and care planning activities are organized, communicated and checked for completion. Generally involves long-term and/or chronic conditions.",Capability L2,421-5369-0
+339,3.2.7.4,Clinical Quality Management - M&R,"Provide a discipline for meeting regulatory, accreditation and internal requirements for clinical quality measures.",Capability L1,421-5354-0
+340,3.2.7.4.1,Quality Indicator Definition - M&R,"Interpret quality indicators, select most impactful measurements and determine approach for benchmarking quality outcomes (library of indicators).",Capability L2,421-5371-0
+341,3.2.7.4.2,Quality Interpretation - M&R,"Measure, monitor, and communicate quality results based on population impacts, significance to the business, etc and identify implications, potential actions and improvements.",Capability L2,421-5370-0
+342,3.2.7.4.3,Quality Oversight - M&R,Provide end-to-end accountability through oversight of delegated entities and transparency of clinical delivery to regulatory and accrediting organizations.,Capability L2,421-5373-0
+343,3.2.7.5,Consumer Strategy - M&R,"Support consumers in order to help them make better decisions regarding their own health and care through tools, resources, rewards and access to information.
+Provider - Partner with physicians and facilities to provide optimal service by providing rewards, tools, resources and access to information.",Capability L1,421-5355-0
+344,3.2.7.5.1,Consumer Communications - M&R,"A capability allowing UHG access to a 360˚ lifetime view of individual consumer’s demographics, preferences, and clinical information.",Capability L2,421-5374-0
+345,3.2.7.5.2,Integrated Health Profile - M&R,The development of strategies to best communicate with consumers in order to promote desired activities and outcomes.,Capability L2,421-5375-0
+346,3.2.7.6,Provider Clinical Engagement - M&R,"Partner with physicians and facilities to provide optimal service by providing rewards, tools, resources and access to information.",Capability L1,421-5356-0
+347,3.2.7.6.1,Provider Outreach - M&R,"Provider interaction about their clinical performance, overall practice trends and individual opportunities.",Capability L2,421-5377-0
+348,3.2.7.6.2,Provider Clinical Education - M&R,"Provide clinical educational resources for providers. Examples include clinical best practices, medical policies, market trends and administrative processes.",Capability L2,421-5379-0
+349,3.2.7.6.3,Provider Clinical Incentives - M&R,Identify Incentives that effectively encourage and are aligned to desired quality outcomes.,Capability L2,421-5380-0
+350,3.2.7.7,Health Decision Support - M&R,"The business capability of identifying and communicating a set of service options directly to the consumer [or to a healthcare service provider making decisions on behalf of the consumer], in order to promote informed decision making.",Capability L1,421-5357-0
+351,3.2.7.7.1,Health Education - M&R,"Provide clinical educational resources for consumers on a variety of topics including behavioral, medical and pharmacy.",Capability L2,421-5381-0
+352,3.2.7.7.2,Provider Selection - M&R,"This business capability guides a consumer to the best physician or care facility based  on cost, quality and efficiency scores, premium designation, network status, medical specialty, and geo-location.",Capability L2,421-5382-0
+353,3.2.7.7.3,Treatment Selection - M&R,"Provide decision making support on comparing courses of treatment for effectiveness and cost using medical, provider, price and location knowledge.",Capability L2,421-5383-0
+354,3.2.7.7.4,Care Delivery Decision Support - M&R,The business capability of supporting optimal care decisions at the point of care.,Capability L2,421-5384-0
+355,3.2.7.7.5,Medication Management - M&R,The business capability guiding the most optimal use of medications.,Capability L2,421-5386-0
+356,3.2.7.8,Health Measurements & Analytics - M&R,"Deliver the clinical intelligence of predictive clinical models, health services information, gaps in care, care delivery pathways, and analytical reports.",Capability L1,421-5358-0
+357,3.2.7.8.1,Health Assessments - M&R,"Assessment of an individual’s health profile. This results in something measurable in order to have a score that can be utilized. Evaluation may be done via surveys / interviews or in person. 
+
+Assessments can be:
+- Generalities around the health of member populations proactively, prior to 
+any services rendered, physician visits or claims. 
+- Efforts to assess an individual's profile. 
+- Observational assessments.
+- Efforts to identify members at the highest risk for not receiving beneficial services.",Capability L2,421-5387-0
+358,3.2.8,Provider Management - M&R,"This domain encompasses UHN and Provider and Network Service Operations (PNSO). PNSO strategy is very tied to UHN strategy.  
+
+Note that this capability model will be revised in 2015.  In May, 2015 discussions have begun with the PNSO Chief of Staff, UHN, and Portfolio Management to align the M&R capability model to Provider Trust Points currently under development.",Domain L0,421-686-0
+359,3.2.8.1,Provider & Network Management - M&R,"Model, design and monitor networks to align to organizational strategies.  Measure by contractual, regulatory requirements and performance.  This includes:
+Definition of network strategies and network designs based on marketplace needs
+Creation of quality standards and the approach and related key performance indicators the will be used to measure them
+Operational work required for ongoing monitoring and oversight of performance, supporting all stakeholders (UHG, provider, customer)",Capability L1,421-719-0
+360,3.2.8.1.1,Network Strategy & Design - M&R,"Definition of the strategy, goals and guiding principles for networks.  This covers things like evaluation of customer needs, development of reimbursement strategies, analysis of existing and potential network coverage against expected service needs.",Capability L2,421-871-0
+361,3.2.8.1.2,Quality Standards - M&R,Definition of standards and approach used to measure provider and network quality.,Capability L2,421-872-0
+362,3.2.8.1.3,Network & Provider Oversight - M&R,"Ongoing measurement of the performance of providers, networks and delegated entities against quality standards including: accessibility, access, clinical and finance.",Capability L2,421-873-0
+363,3.2.8.2,Provider Contract Management - M&R,"Negotiate, create and maintain provider agreements based on our network and product strategy and design. Covers initial outreach to a provider to the point of operational readiness as well as ongoing maintenance (i.e. update, renewal, termination) of the agreement.  This includes
+Contracting efforts, including new contracts, maintenance, terminations.
+Credentialing and re-credentialing efforts
+Configuration of changes to providers; inputs come from contracting or other functions (i.e. provider relations).",Capability L1,421-720-0
+364,3.2.8.2.1,Contracting - M&R,"Deliver provider and network agreements that define the terms and conditions (including language, reimbursement rates & approach, products supported) for delivering health care services to members",Capability L2,421-874-0
+365,3.2.8.2.2,Credentialing - M&R,"Deliver provider and network agreements that define the terms and conditions (including language, reimbursement rates & approach, products supported) for delivering health care services to members",Capability L2,421-875-0
+366,3.2.8.2.3,Provider Configuration - M&R,Management of provider contracdemographic tual and data and capabilities to make it available to all other areas of operations.,Capability L2,421-876-0
+367,3.2.8.3,Provider Engagement - M&R,"Ensure that the ongoing relationship with providers is actively managed. Enable effective, two way communication between UHG and providers, both in and out of network.  This includes management of all channels used to interact with providers, creation of content to send to providers, intake in information from providers and active collaboration on improvement opportunities.  This includes
+Work to maintain a our relationship with providers, listen and respond to provider input.
+Outreach to providers
+UHC management of the provider experience to ensure a consistent experience across populations, products and systems.",Capability L1,421-721-0
+368,3.2.8.3.2,Provider Relations - M&R,"The Education & Outreach capability advises on strategy, content, collateral, and deployment plan when a targeted need for communication is identified.  A business partner may be an internal partner, Local Market Advocate, or a contracted provider.   Local Market Advocates are regionally assigned and the Outreach team works closely with the advocates to engage them in the process as well as enable them to become trusted advisors within their assigned region.
+ 
+Targeted outreach communications may be in support of an initiative, policy, or program.  Items can be focused on specific areas due to information received from Fraud, Waste and Abuse regarding waste and abuse.  Educational information is also delivered as a response to complaints regarding administrative items from the CMS, American Medical Association (AMA) and/or State societies.",Capability L2,421-850-0
+369,3.2.8.3.3,Provider Training & Outreach- M&R,"Manage provider communication and training. Develop content, collateral, and deployment strategies when a targeted need for training or communication is identified. Communication can be ongoing on adhoc based on provider preferences. Custom training may be developed for providers/practices based on need.",Capability L2,421-851-0
+370,3.2.8.3.4,Engagement Strategy & Design- M&R,"Active management and analysis of provider interactions  throughout the  provider journey and duration of the relationship with goal of improving business relationship, active partnerships and engagement",Capability L2,421-852-0
+371,3.2.8.4,Value Based Reimbursement - M&R,"Value Based Reimbursement covers all payments to providers for medical services that are not reimbursed through a fee for service claims process.  This capability includes payments, penalties and analytics required to align provider compensation incentives with member wellness.  This includes:
+Application of incentives and penalties based on: retroactive review of behavior and/or proactive investment to influence future services.
+Value based payments for rendering medical services, such as bundled payments or capitated payments
+Payment integrity efforts to avoid or respond to occurrences of fraud waste and abuse.",Capability L1,421-722-0
+372,3.2.8.4.1,Incentives & Penalties - M&R,"Financial impacts to providers based on behaviors in addition to or subtracting from the payment for medical services (i.e. claims, bundled payments, capitated payments).  This capability interfaces with, but does not include, processing of claims (which are governed by the claims domain)",Capability L2,421-853-0
+373,3.2.8.4.2,Value Based Payments- M&R,Processing of value based payments to providers for delivering medical services.  This function differs from the claims domain which processes only fee for service payments.,Capability L2,421-878-0
+374,3.2.8.4.3,Payment Integrity - M&R,"Monitor for, Identify, prevent and respond to instances of fraud, waste and abuse in the health care system.",Capability L2,421-879-0
+375,3.2.9,Clinical Services - M&R,"Clinical Services is a specific domain that provides services to improve and enhance member health and well-being by helping consumers navigate the health care system and obtain access to the best health services through clinical policy management (e.g., health service review,  treatment protocols/programs, wellness programs, health education, disease management, clinical analysis, predictive modeling, clinical appeals management and reporting for member and provider care management).  Topics such as Care Management and Clinical Behavioral support are all types of Clinical Services.",Domain L0,421-685-0
+376,3.2.9.1,Technology Support - M&R,"Technology Support capability is a body of IT capabilities that equip the business partners with scalable technology service solutions that ultimately work to best match business demand with IT supplies. Today, the technology capabilities can be segmented in two categories, Enterprise UHG IT Capabilities and Segment-specific Capabilities.",Capability L1,421-724-0
+377,3.2.9.1.1,Technology Practices - M&R,Create framework to identify and participate in various projects/programs having data related impacts,Capability L2,421-884-0
+378,3.2.9.1.2,Application Services - M&R,Advocate Ovations data requirements and needs at a corporate level by influencing key decisions and activities.,Capability L2,421-885-0
+379,3.2.9.1.3,Infrastructure Services - M&R,Provide support as needed to key initiatives underway in capacities of data experts and subject matter experts.,Capability L2,421-886-0
+380,3.2.9.1.4,IT Business Support - M&R,,Capability L2,421-887-0
+381,3.2.9.1.5,Manage Architecture - M&R,,Capability L2,421-888-0
+382,3.2.9.1.6,Business Process Management - M&R,,Capability L2,421-889-0
+383,3.2.9.1.7,Portfolio Management - M&R,,Capability L2,421-890-0
+384,3.2.9.1.8,Manage Technical Operations - M&R,,Capability L2,421-891-0
+385,3.2.9.1.9,Manage Implementations - M&R,,Capability L2,421-892-0
+386,3.2.9.2,Data Management & Strategy - M&R,"Data Management capability focuses on three data enablement areas;
+
+a) advancements of reporting and analytic competencies,
+b) improving the quality and trust of data through asset rationalization and simplification, and 
+c) supporting the identification of architectural direction for Medicare & Retirement’s data/data assets.
+
+This is accomplished through; 
+a) leveraging the business architecture capabilities, 
+b) driving the understanding of current data needs across business domains, 
+c) strategically aligning to Enterprise Information Management (aka EIM) and other enterprise data strategies, 
+d) supporting a system of data governance, and 
+e) identification of sources of truth across data domains.
+
+The Data Management capabilities are in place to support the rest of M&R capability domains and will be the conduit for business teams to manage data needs.",Capability L1,421-725-0
+387,3.2.9.2.1,Enable Advancements in Reportin & Analytics - M&R,Establish a Center of Excellence (COE) focused on Business Analytics and Optimization to deliver advanced capabilities thereby facilitating better decision by understanding business data better.,Capability L2,421-893-0
+388,3.2.9.2.2,Rationalize & Manage Data Assets - M&R,Create a framework for understanding reporting requirements across domains by bringing the key reporting teams together. Also creating a framework to realign operational staff based upon their proficiency with understanding and handling data parameters across processes.,Capability L2,421-894-0
+389,3.2.9.2.3,Manage Data Architecture - M&R,Create an advisory council to review and approve reporting & analytics delivery applications to be used by the business domains.,Capability L2,421-895-0
+390,3.2.10,Technology and Data Management - M&R,"Technology Support capability is a body of IT capabilities that equip the business partners with scalable technology service solutions that ultimately work to best match business demand with IT supplies. Today, the technology capabilities can be segmented in two categories, Enterprise UHG IT Capabilities and Segment-specific Capabilities. 
+
+Data Management capability focuses on three data enablement areas; a) advancements of reporting and analytic competencies, b) improving the quality and trust of data through asset rationalization and simplification, and c) supporting the identification of architectural direction for Medicare & Retirement’s data/data assets",Domain L0,421-687-0
+391,3.2.10.1,Financial Operations - M&R,"Medicare and Retirement Finance prepares and consolidates accounting transactions and financial statement data on a monthly basis and creates reports for senior management. The consolidated reporting process relies upon accounting teams within Medicare and Retirement Accounting (Membership, Revenue, Medical, SG&A) and accounting teams outside of the direct reporting line to the Controller (Sierra, XL Health, Medica). Prepares financial plans (budget and forecast) and presents to senior management. They also provides financial decision support for product evaluations, business plans, capital investment, etc.",Capability L1,421-726-0
+392,3.2.10.1.1,Transaction Creation to Financial Tagging - M&R,"Resources in this function generate forecasts for sales, SG&A, provider performance, product line profitability, membership, medical costs, premium yields, and other areas of business. They research economic progressions to assist with the organization's financial planning. Also, this capability presents findings and recommendations to management, which may include responsibility for budget planning and analysis.",Capability L2,421-751-0
+393,3.2.10.1.1.1,Financial Analysis - M&R,,Capability L3,421-4815-0
+394,3.2.10.1.1.2,Financial Reporting - M&R,,Capability L3,421-4816-0
+395,3.2.10.1.1.3,Financial Planning - M&R,,Capability L3,421-4817-0
+396,3.2.10.1.2,Journal Entry to Accounting Close - M&R,"Positions in this function maintain general ledger accounts and related activities for the production of financial statements and reports. Performs account reconciliations and analyses, prepares journal entries and reviews accounting classifications, in accordance with generally-accepted accounting principles. Analyzes and prepares financial statements, including balance sheets and statements of financial position. Involved in the monthly/quarterly ""close"" process. Prepares documentation in support of external and internal audits.The Account for Financial Transactions capability also includes financial accounting for Rx Rebate transactions, budgeting, forecasting and GL posting. The forecasting and budgeting are mainly done to support final rebate decision. The functional team for Rx Rebate process include; Optum Rx Accounting, M&R Financial Planning & Analysis (FP&A), and M&R Accounting.",Capability L2,421-752-0
+397,3.2.10.1.2.1,Record and Analyze Transactions - M&R,,Capability L3,421-4818-0
+398,3.2.10.1.2.2,Prepare and Analyze Statements and Reports - M&R,,Capability L3,421-4819-0
+399,3.2.10.1.2.3,Maintain Financial Systems and Databases - M&R,,Capability L3,421-4820-0
+400,3.2.10.1.2.4,Ensure Financial Compliance - M&R,,Capability L3,421-4821-0
+401,3.2.10.1.2.5,Support Financial Audits - M&R,,Capability L3,421-4822-0
+402,3.2.10.1.3,Financial Reporting & Controls - M&R,Positions in this function research and investigate key business problems through quantitative analyses of financial data. Provides management with statistical findings and conclusions.,Capability L2,421-753-0
+403,3.2.10.1.3.1,Assess Impact of Clinical Programs - M&R,,Capability L3,421-4823-0
+404,3.2.10.1.3.2,HealthCare Affordability Analytics - M&R,,Capability L3,421-4824-0
+405,3.2.10.1.3.3,Forecast and Trend Analysis - M&R,,Capability L3,421-4825-0
+406,3.2.10.1.3.4,Perform Standard and Ad Hoc Reporting - M&R,,Capability L3,421-4826-0
+407,3.2.10.2,Corporate Responsibility & Compliance - M&R,"The purpose of the Corporate Responsibility and Compliance (CRC) Program is to ensure operational accountability for compliance with the obligations that govern our federal and State business. The CRC Program includes Medicare Compliance, Medicaid Compliance, Audit Management, Regulatory Reporting & Delegated Entity Compliance, Privacy, Investigations, Regulatory Affairs, and Veterans Affairs.",Capability L1,421-727-0
+408,3.2.10.2.1,Administer Compliance Program - M&R,"This department is comprised of Medicare and Medicaid regulatory audit management and internal compliance audit management. Responsibilities include, but are not limited to, audit tracking, audit preparation and on-site audit activity support, centralized reporting and PSMG compliance support through various audit related functions.",Capability L2,421-754-0
+409,3.2.10.2.1.1,Execute Audit Plan - M&R,,Capability L3,421-4827-0
+410,3.2.10.2.1.2,Monitor and Report Findings - M&R,,Capability L3,421-4828-0
+411,3.2.10.2.2,Prevent Detect Correct - M&R,"Medicare Compliance:
+The Medicare compliance team is comprised of compliance leads working within the business functions of Materials & Fulfillment, Sales & Distribution, Operations, Networks, Clinical, Medicare Program Administration, Finance and Pharmacy. The compliance teams integrate a compliance structure and accountability that aligns with operational leadership and provides oversight to the business to ensure we are meeting and exceeding our regulatory expectations. The team includes a CMS Account Management team that ensures clear points of contact and comprehensive/timely responses to identified issues. The Medicare compliance team will evolve to align with the business.
+
+Medicaid Compliance:
+Medicaid Compliance extends across all Medicaid plans and reports into a common structure that facilitates consistency and standardization while allowing flexibility to meet unique plan needs. Compliance Programs are administered at the plan level with each plan having a designated Compliance Officer that aligns with a Regional Compliance Officer. The compliance officer teams integrate a compliance structure and accountability that align with the state and regional leadership and provide oversight to the business to ensure we meet or exceed regulatory expectations.
+
+Government Programs Admin & Delegated Oversight: Responsibilities include ensuring the administration of effective compliance structures and processes are defined, developed and outlined for government programs; and there is effective oversight of inter-segment and third-party relationships, including reporting activities.",Capability L2,421-755-0
+412,3.2.10.2.2.1,Regulatory Affairs - M&R,,Capability L3,421-4829-0
+413,3.2.10.2.2.2,Reporting Oversight - M&R,,Capability L3,421-4830-0
+414,3.2.10.2.2.3,Compliance Program - M&R,,Capability L3,421-4831-0
+415,3.2.10.2.2.4,Privacy - M&R,,Capability L3,421-4832-0
+416,3.2.10.2.3,Develop Executive Compliance Strategy  - M&R,"UHC Government Programs Investigation’s Compliance Investigations Unit (CIU):
+Responsible for investigating member enrollment complaints for all Medicare Plans related to marketing misrepresentation involving UHC Government Programs appointed agents. The Compliance Investigation Unit (CIU) is the source of truth for Medicare Marketing Misrepresentation investigation data and reporting. Compliance Investigation Unit (CIU) is responsible for the investigation of marketing misrepresentations without limitation or exclusion. 
+
+UHC Government Programs Investigation’s Ethics & Integrity Investigations Unit (EIU):
+Responsible for investigating suspected ethics and integrity matters. UHC Government Programs EIU is one of the principal points of referral from UHG Ethics & Integrity and other sources for the investigation and reporting of all suspected ethics and integrity incidents within Medicare and Medicaid programs.
+
+UHC Government Programs Investigation’s Special Investigations Unit (SIU):  
+Responsible for investigating suspected fraud and abuse matters. UHC Government Programs SIU is one of the principal points of referral for the investigation of all suspected incidents of criminal and civil fraud within Medicare and Medicaid programs. UHC Government Programs SIU is responsible for the management and oversight of any vendor or inter-segment partner related to investigating suspected incidents of fraud and/or abuse within the Medicare and Medicaid programs. UHC Government Programs SIU is responsible for all fraud and abuse reporting with prosecutors, governmental investigative agencies or other regulatory bodies.",Capability L2,421-756-0
+417,3.2.10.2.3.1,Broker/ Agent - M&R,,Capability L3,421-4833-0
+418,3.2.10.2.3.2,Fraud and Abuse - M&R,,Capability L3,421-4834-0
+419,3.2.10.2.3.3,Compliance Ethics - M&R,,Capability L3,421-4835-0
+420,3.2.10.2.4,FWA SIU- M&R,,Capability L2,421-6310-0
+421,3.2.10.3,Learning & Development - M&R,Assesses and implements learning and manages quality.,Capability L1,421-730-0
+422,3.2.10.3..5,Communicate Rewards - M&R,,Capability L3,421-4851-0
+423,3.2.10.3.1,Design & Optimize Organization - M&R,"Design and Optimize the Organization aligns the organization to support current and future business strategies. Optimizes resource effectiveness through organizational design, resource planning, workforce management and global sourcing strategies.",Capability L2,421-757-0
+424,3.2.10.3.1.1,Organizational Design - M&R,,Capability L3,421-4836-0
+425,3.2.10.3.1.2,Resource Planning - M&R,,Capability L3,421-4837-0
+426,3.2.10.3.1.3,Workforce Management - M&R,,Capability L3,421-4838-0
+427,3.2.10.3.1.4,Global Resource Management - M&R,,Capability L3,421-4839-0
+428,3.2.10.3.2,"Acquire, Develop, & Retain Talent - M&R",Acquire Talent focuses on acquiring the talent needed to support current and future business strategies. Includes employee and contractor resources.,Capability L2,421-758-0
+429,3.2.10.3.2,Provide Health and Wellness Benefits - M&R,,Capability L3,421-4848-0
+430,3.2.10.3.2.1,Define Sourcing Strategy - M&R,,Capability L3,421-4840-0
+431,3.2.10.3.2.2,Manage Talent Pipeline - M&R,,Capability L3,421-4841-0
+432,3.2.10.3.2.3,Recruit Talent - M&R,,Capability L3,421-4842-0
+433,3.2.10.3.2.4,Deploy Talent - M&R,,Capability L3,421-4843-0
+434,3.2.10.3.3,Drive Employee Engagement - M&R,"Drive Employee Engagement focuses on assessing employee engagement and building a culture which fosters employee engagement. Includes assessing employee satisfaction, providing managers and employees with tools to manage performance and developing and implementing strategies to foster employee engagement with organization, site and community.",Capability L2,421-759-0
+435,3.2.10.3.3.1,Assess Employee Engagement - M&R,,Capability L3,421-4844-0
+436,3.2.10.3.3.2,Retain Talent - M&R,,Capability L3,421-4845-0
+437,3.2.10.3.3.3,Manage Performance - M&R,,Capability L3,421-4846-0
+438,3.2.10.3.4,Deliver Total Rewards - M&R,"Deliver Total Rewards focuses on developing and implementing organizational reward systems including health and wellness benefits, compensation and payroll.",Capability L2,421-760-0
+439,3.2.10.3.4.1,Define Reward Strategy - M&R,,Capability L3,421-4847-0
+440,3.2.10.3.4.3,Deliver Compensation - M&R,,Capability L3,421-4849-0
+441,3.2.10.3.4.4,Process Payroll - M&R,,Capability L3,421-4850-0
+442,3.2.10.3.5,Leverage Reporting & Analytics- M&R,,Capability L2,421-6311-0
+443,3.2.10.4,Legal - M&R,"Manages legal risk for the organization, oversees litigation, and provides consultation to functional areas of the business.",Capability L1,421-729-0
+444,3.2.10.4.1,Manage Legal Risk - M&R,"This capability is devoted to addressing and resolving individual high risk member issues.  Risk issues arise when the enrollee/member or the company perceives that one or more of the partners in the administrative healthcare process is performing (or not performing) in a manner that adversely impacts the enrollee/member financially or in the quality of healthcare services provided.  This capability considers how actions or inactions impact the quality of care, company reputation and compliance requirements and seeks to mitigate any adverse impact to the enrollees/members and the company.",Capability L2,421-761-0
+445,3.2.10.4.1.1,Support High Risk Member Issues - M&R,,Capability L3,421-4852-0
+446,3.2.10.4.1.2,Quantify Risk Impact - M&R,,Capability L3,421-4853-0
+447,3.2.10.4.1.3,Support Risk Impact - M&R,,Capability L3,421-4854-0
+448,3.2.10.4.2,Provide Legal Consultation - M&R,This capability provides a lead attorney for key business areas as well as lead subject matter experts.,Capability L2,421-762-0
+449,3.2.10.4.2.1,Maintain Legal Expertise - M&R,,Capability L3,421-4855-0
+450,3.2.10.4.2.2,Provide Legal Opinion - M&R,,Capability L3,421-4856-0
+451,3.2.10.4.2.3,Support Risk Mitigation Activities - M&R,,Capability L3,421-4857-0
+452,3.2.10.4.2.4,Maintain Legal Records - M&R,,Capability L3,421-4858-0
+453,3.2.10.4.3,Manage Litigation - M&R,"This capability is dedicated to effectively and efficiently resolving legal disputes. Litigation managers coordinate outside counsel to assist with the resolution of complex litigation matters involving members, providers, brokers, and employees. The capability handles a wide variety of litigation matters, including benefit disputes, contract disputes, small claims, medical malpractice litigation and antitrust claims",Capability L2,421-763-0
+454,3.2.10.4.3.1,Coordinate Outside Council - M&R,,Capability L3,421-4859-0
+455,3.2.10.4.3.2,Resolve Existing Disputes - M&R,,Capability L3,421-4860-0
+456,3.2.10.4.3.3,Prevent Future Disputes - M&R,,Capability L3,421-4861-0
+457,3.2.10.5,Human Capital - M&R,"This capability develops organization structures for the business, acquires talent, drives engagement, and delivers employee rewards.",Capability L1,421-728-0
+458,3.2.10.5.1,Assess Learning Objectives - M&R,"During assessment phase, the learning organization works with the business function to determine the goals. We speak in terms of “terminal” and “enabling” goals. Terminal goals describe measurable objectives; enabling goals support terminal goals.
+
+When agreement on goals is reached, and it is determined that a learning strategy can support the agreement, the learning organization determines an approach that will assist and achieving the desired ends.",Capability L2,421-764-0
+459,3.2.10.5.1.1,Identify Organizational Needs - M&R,,Capability L3,421-4862-0
+460,3.2.10.5.1.2,Identify Individual Goals - M&R,,Capability L3,421-4863-0
+461,3.2.10.5.1.3,Develop Strategy and Plan - M&R,,Capability L3,421-4864-0
+462,3.2.10.5.2,Plan & Design Learning - M&R,"During planning and design, the learning organization engages stakeholders and subject matter experts to gather content. Interaction design is performed to ensure optimal delivery. Determinations on in-sourcing or out-sourcing development are also made.",Capability L2,421-765-0
+463,3.2.10.5.2.1,Design Learning Programs - M&R,,Capability L3,421-4865-0
+464,3.2.10.5.2.2,Gather Training Content - M&R,,Capability L3,421-4866-0
+465,3.2.10.5.2.3,Determine Interactions - M&R,,Capability L3,421-4867-0
+466,3.2.10.5.3,Learning & Development - M&R,"Development includes all of the activities required to refine subject matter content within the context of the chosen interaction channels (i.e. in-person, online, mentoring, etc.)If development is handled by a vendor, they are supplied with the learning objectives, design, and plan. For enabling goals, test plans are developed at this stage.",Capability L2,421-766-0
+467,3.2.10.5.3.1,Develop Training Content - M&R,,Capability L3,421-4868-0
+468,3.2.10.5.3.2,Enable Learning through Various Channels - M&R,,Capability L3,421-4869-0
+469,3.2.10.5.3.3,Develop Evaluation Plan - M&R,,Capability L3,421-4870-0
+470,3.2.10.5.4,Implement Learning - M&R,"Implementation of learning programs can be extensive and include the delivery of in-person and online training, mentorships and experience-based learning.Logistical support is critical to large scale program roll-outs. Coordination with workforce management may be required in call centers to ensure scheduling optimization.If a pilot program is called for, sampling is determined and a structured review process is put in place.",Capability L2,421-767-0
+471,3.2.10.5.4.1,Manage Learning Logistics - M&R,,Capability L3,421-4871-0
+472,3.2.10.5.4.2,Training Delivery - M&R,,Capability L3,421-4872-0
+473,3.2.10.5.4.3,Vendor Management - M&R,,Capability L3,421-4873-0
+474,3.2.10.5.5,Evaluate Learning Outcomes - M&R,"Terminal objectives are measured through data collection and analysis. Enabling objectives are tested through test scripts and observation.Outcomes are reviewed and brought back to the learning manager, who evaluates success level based on program overall objectives. If appropriate, learning programs are adjusted to optimize results.",Capability L2,421-768-0
+475,3.2.10.5.5.1,Assess Performance through Observation - M&R,,Capability L3,421-4874-0
+476,3.2.10.5.5.2,Assess Business Performance - M&R,,Capability L3,421-4875-0
+477,3.2.10.5.5.3,Monitor and Review Outcomes - M&R,,Capability L3,421-4876-0
+478,3.2.10.5.5.4,Evaluate and Improve Programs - M&R,,Capability L3,421-4877-0
+479,3.2.11,Organizational Support - M&R,"The Organizational Support domain consists of capabilities that support the UHC Medicare & Retirement organization, including the following:
+
+Financial Operations plans and manages financial performance for the organization.
+Corporate Responsibility and Compliance provides oversight of the regulatory obligations governing the business.
+Human Capital develops org. structures for the business, acquires talent, drives engagement, and delivers employee rewards.
+Legal manages legal risk for the organization, oversees litigation, and provides consultation to functional areas of the business.
+Learning and Development assesses and implements learning and manages quality.",Domain L0,421-688-0
