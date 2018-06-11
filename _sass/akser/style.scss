@@ -459,9 +459,29 @@ img {
     max-width: 300px;
     line-height: 28px; }
 
-.l-problem {
+.l-title {
     margin-top: 150px;
+    position: relative;
+    padding: 102px 0 47px;
+}
+.l-title .title{
+    margin-top: 8%;
+    font-weight: 100;
+}
+.l-title h3{
+    font-size: 19px;
+    text-align: -webkit-center;
+    font-weight: 100;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.l-problem {
     background: url('/assets/images/rel-background-gray.png') no-repeat top right;
+}
+
+.l-problem .last-sub-text {
+    margin-bottom: 100px;
 }
 .section {
     padding: 55px 0; }
@@ -734,13 +754,15 @@ header .box.box--wide {
     padding: 57px 0 58px; }
 
 .footer-top-slogan {
-    margin-right: 40px;
-    margin-left: 58px;
+/*    margin-right: 40px;
+    margin-left: 58px;*/
     display: inline-block;
     vertical-align: middle;
     font-size: 30px;
     line-height: 42px;
-    max-width: 420px; }
+    max-width: 100%;
+    margin-bottom: 25px;
+}
 
 .footer-bottom {
     background: #061026;
@@ -911,8 +933,15 @@ header .box.box--wide {
 
 .problem-block .ul-number,
 .solution-block .ul-number{
-    list-style-type: decimal-leading-zero;
+    list-style-type: disc;
     line-height: 22px;
+    font-size: 16px;
+    padding-left: 19px;
+}
+
+.problem-block .ul-number li,
+.solution-block .ul-number li {
+    margin-bottom: 14px;
 }
 
 .solution-block {
@@ -1109,7 +1138,9 @@ header .box.box--wide {
     opacity: 0.05; }
 .l-unique .h2 {
     margin-bottom: 47px; }
-
+.third-col ul {
+    margin-left: 3%;
+}
 .img-flower {
     width: 300px;
     height: 300px;
