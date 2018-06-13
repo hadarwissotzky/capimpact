@@ -433,7 +433,10 @@ img {
     margin: 0; }
 
 .h1 {
-    margin-bottom: 10px; }
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 20px;}
 
 .h2 {
     margin-bottom: 55px; }
@@ -638,7 +641,7 @@ header .box.box--wide {
     top: -114px;
     left: -230px;
     width: 1500px;
-    height: 420px;
+    height: 540px;
     transform-origin: 0 0;
     /*transform: rotate(-10deg);*/
     background: linear-gradient(180.61deg, #4a708b 7.36%, #4a708b 152.27%);
@@ -673,7 +676,10 @@ header .box.box--wide {
 
 .header-description {
     margin-bottom: 41px;
-    letter-spacing: 0.01em; }
+    letter-spacing: 0.01em;
+    font-size: 25px;
+    line-height: 38px;
+    font-weight: 100}
 
 .nav {
     text-align: center; }
