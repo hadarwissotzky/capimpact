@@ -446,7 +446,9 @@ img {
     font-size: 16px;
     line-height: 23px;
     margin: 0;
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+    font-weight: 100;
+}
 .basic-text--light {
     font-weight: 300; }
 .basic-text--medium {
@@ -1141,7 +1143,7 @@ header .box.box--wide {
 .l-unique .h2 {
     margin-bottom: 47px; }
 .third-col ul {
-    margin-left: 3%;
+    margin-left: 10%;
 }
 .img-flower {
     width: 300px;
@@ -1207,7 +1209,8 @@ header .box.box--wide {
 .unique-item .basic-text {
     display: inline-block;
     vertical-align: top;
-    width: calc(100% - 65px); }
+    width: calc(100% - 65px);
+    font-weight: 700;}
 
 .l-vision {
     padding: 102px 0 47px; }
