@@ -427,8 +427,8 @@ img {
     max-width: 100%; }
 
 .h1, .h2 {
-    font-weight: 700;
-    font-size: 36px;
+    font-weight: 500;
+    font-size: 30px;
     line-height: 42px;
     margin: 0; }
 
@@ -469,12 +469,13 @@ img {
     font-weight: 100;
 }
 .l-title h3{
-    font-size: 19px;
-    text-align: -webkit-center;
     font-weight: 100;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    font-size: 16px;
+    line-height: 23px;
+    font-family: 'Roboto', sans-serif;
 }
 .l-problem {
     background: url('/assets/images/rel-background-gray.png') no-repeat top right;
@@ -942,6 +943,7 @@ header .box.box--wide {
 .problem-block .ul-number li,
 .solution-block .ul-number li {
     margin-bottom: 14px;
+    font-weight: 100;
 }
 
 .solution-block {
