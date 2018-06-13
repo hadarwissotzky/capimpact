@@ -915,9 +915,6 @@ header .box.box--wide {
     right: 0;
     top: 0; }
 
-.heading-line {
-    position: relative;
-    margin-bottom: 18px; }
 
 .heading-line:after {
     content: '';
@@ -936,15 +933,15 @@ header .box.box--wide {
 
 .problem-block .ul-number,
 .solution-block .ul-number{
-    list-style-type: disc;
+    list-style-type: none;
     line-height: 22px;
     font-size: 16px;
-    padding-left: 19px;
+    padding-left: 0px;
 }
 
 .problem-block .ul-number li,
 .solution-block .ul-number li {
-    margin-bottom: 14px;
+    margin-bottom: 4px;
     font-weight: 100;
 }
 
@@ -962,13 +959,17 @@ header .box.box--wide {
 
 .half-col__problem {
     float: left;
-    min-height: 260px; }
+    min-height: 180px; }
 .half-col__problem--image {
     width: calc(100% - 380px); }
 .half-col__problem--description {
     width: 380px;
     padding-top: 5px; }
-
+.half-col__problem--description .h2 {
+    margin-bottom: 0px;
+    font-size: 21px;
+    font-weight: 400;
+}
 .l-brands {
     padding: 69px 0 55px; }
 
@@ -1612,7 +1613,10 @@ input.no-valid + .valid-mes {
     .problem-block,
     .solution-block {
         padding-right: 0;
-        padding-left: 0; }
+        padding-left: 0;  }
+    .solution-block {
+        padding-top: 20px;
+    }
     .mob-hide {
         display: none; }
     .desk-hide {
