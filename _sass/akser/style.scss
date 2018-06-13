@@ -460,7 +460,7 @@ img {
     line-height: 28px; }
 
 .l-title {
-    margin-top: 150px;
+    margin-top: 30px;
     position: relative;
     padding: 102px 0 47px;
 }
@@ -634,11 +634,11 @@ header .box.box--wide {
     position: absolute;
     display: block;
     top: -115px;
-    left: -40px;
+    left: -230px;
     width: 1500px;
-    height: 560px;
+    height: 420px;
     transform-origin: 0 0;
-    transform: rotate(-10deg);
+    /*transform: rotate(-10deg);*/
     background: linear-gradient(180.61deg, #4a708b 7.36%, #4a708b 152.27%);
     border-radius: 50px;
     z-index: -1;
