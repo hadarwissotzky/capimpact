@@ -1107,8 +1107,14 @@ header .box.box--wide {
     max-width: 100px; }
 
 .team-img, .board-img {
-    border-radius: 50%; }
-
+    border-radius: 50%;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+.team-img:hover, .board-img:hover {
+    filter: none;
+    -webkit-filter: none;
+}
 .board-img {
     display: inline-block;
     width: 60px;
